@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/9664/trunk/PlugIns/EXRCodec/src
+END
+O_IStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/EXRCodec/src/O_IStream.cpp
+END
+OgreEXRCodecDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9664/trunk/PlugIns/EXRCodec/src/OgreEXRCodecDll.cpp
+END
+O_IStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/EXRCodec/src/O_IStream.h
+END
+OgreEXRCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/EXRCodec/src/OgreEXRCodec.cpp
+END

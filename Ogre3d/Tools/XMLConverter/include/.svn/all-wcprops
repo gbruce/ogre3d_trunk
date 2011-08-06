@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/XMLConverter/include
+END
+OgreXMLSkeletonSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/XMLConverter/include/OgreXMLSkeletonSerializer.h
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/XMLConverter/include/tinystr.h
+END
+OgreXMLPrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/XMLConverter/include/OgreXMLPrerequisites.h
+END
+OgreXMLMeshSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/XMLConverter/include/OgreXMLMeshSerializer.h
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/8248/trunk/Tools/XMLConverter/include/tinyxml.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/ogre/!svn/ver/9896/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/es.lproj
+END
+InfoPlist.strings
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/ogre/!svn/ver/9896/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/es.lproj/InfoPlist.strings
+END
+Localizable.strings
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/ogre/!svn/ver/9451/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/es.lproj/Localizable.strings
+END
+Select_Ogre_Install_Location.xib
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/ogre/!svn/ver/9896/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/es.lproj/Select_Ogre_Install_Location.xib
+END

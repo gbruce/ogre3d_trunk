@@ -1,0 +1,141 @@
+10
+
+dir
+9952
+https://svn.ogre3d.org/svnroot/ogre/trunk/Tools
+https://svn.ogre3d.org/svnroot/ogre
+
+
+
+2010-03-20T16:56:16.365104Z
+9946
+sinbad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8631bf8a-c64b-0410-883c-f3eb003322f7
+
+MilkshapeExport
+dir
+
+LightwaveConverter
+dir
+
+MeshUpgrader
+dir
+
+XMLConverter
+dir
+
+Common
+dir
+
+MayaExport
+dir
+
+rcapsdump
+dir
+
+3dsmaxExport
+dir
+
+dotXSIConverter
+dir
+
+CommandLineTools_Readme.txt
+file
+
+
+
+
+2011-08-06T23:28:47.000000Z
+820406ffb734c9641aa72f072d6e629e
+2008-06-13T10:18:30.288130Z
+7604
+sinbad
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4334
+
+XSIExport
+dir
+
+MaterialEditor
+dir
+
+Wings3DExporter
+dir
+
+VRMLConverter
+dir
+
+BitmapFontBuilderTool
+dir
+
+BlenderExport
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2011-08-06T23:28:47.000000Z
+751e2757e9f2522e3f3123baf2d5a61b
+2009-07-10T04:02:05.427303Z
+8787
+masterfalcon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+629
+

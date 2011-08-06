@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/8787/trunk/OgreMain/include/OSX/nib/main.nib
+END
+info.nib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/8787/trunk/OgreMain/include/OSX/nib/main.nib/info.nib
+END
+classes.nib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/8787/trunk/OgreMain/include/OSX/nib/main.nib/classes.nib
+END
+objects.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/8787/trunk/OgreMain/include/OSX/nib/main.nib/objects.xib
+END

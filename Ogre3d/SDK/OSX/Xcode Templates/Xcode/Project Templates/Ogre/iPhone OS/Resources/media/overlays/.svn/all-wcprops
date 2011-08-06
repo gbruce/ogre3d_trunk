@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/ogre/!svn/ver/9681/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Resources/media/overlays
+END
+Example-CubeMapping.overlay
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/ogre/!svn/ver/9681/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Resources/media/overlays/Example-CubeMapping.overlay
+END
+Example-DynTex.overlay
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/ogre/!svn/ver/9681/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Resources/media/overlays/Example-DynTex.overlay
+END
+DP3.overlay
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/ogre/!svn/ver/9681/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Resources/media/overlays/DP3.overlay
+END
+Shadows.overlay
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/ogre/!svn/ver/9681/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Resources/media/overlays/Shadows.overlay
+END
+BasicOgreGuiTemplates.inc
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/ogre/!svn/ver/9681/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Resources/media/overlays/BasicOgreGuiTemplates.inc
+END
+Example-Water.overlay
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/ogre/!svn/ver/9681/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Resources/media/overlays/Example-Water.overlay
+END
+Compositor.overlay
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/ogre/!svn/ver/9681/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Resources/media/overlays/Compositor.overlay
+END

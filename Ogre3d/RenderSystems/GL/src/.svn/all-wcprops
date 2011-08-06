@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/9915/trunk/RenderSystems/GL/src
+END
+OgreGLDepthBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9915/trunk/RenderSystems/GL/src/OgreGLDepthBuffer.cpp
+END
+glew.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/8787/trunk/RenderSystems/GL/src/glew.cpp
+END
+OgreGLPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLPlugin.cpp
+END
+OgreWin32GLSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/8513/trunk/RenderSystems/GL/src/OgreWin32GLSupport.cpp
+END
+OgreGLRenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLRenderTexture.cpp
+END
+OgreGLTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9299/trunk/RenderSystems/GL/src/OgreGLTexture.cpp
+END
+OgreWin32RenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreWin32RenderTexture.cpp
+END
+OgreGLEngineDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9664/trunk/RenderSystems/GL/src/OgreGLEngineDll.cpp
+END
+OgreGLHardwareOcclusionQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLHardwareOcclusionQuery.cpp
+END
+OgreWin32Window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/src/OgreWin32Window.cpp
+END
+OgreGLRenderToVertexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLRenderToVertexBuffer.cpp
+END
+OgreGLFrameBufferObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/src/OgreGLFrameBufferObject.cpp
+END
+OgreGLSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLSupport.cpp
+END
+OgreGLGpuProgramManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLGpuProgramManager.cpp
+END
+OgreGLHardwareIndexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLHardwareIndexBuffer.cpp
+END
+OgreGLGpuNvparseProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLGpuNvparseProgram.cpp
+END
+OgreGLPBRenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLPBRenderTexture.cpp
+END
+OgreGLHardwareBufferManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLHardwareBufferManager.cpp
+END
+OgreGLGpuProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLGpuProgram.cpp
+END
+OgreGLContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLContext.cpp
+END
+OgreGLRenderSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/src/OgreGLRenderSystem.cpp
+END
+OgreGLHardwareVertexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLHardwareVertexBuffer.cpp
+END
+OgreGLFBORenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/src/OgreGLFBORenderTexture.cpp
+END
+OgreGLDefaultHardwareBufferManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9522/trunk/RenderSystems/GL/src/OgreGLDefaultHardwareBufferManager.cpp
+END
+OgreGLFBOMultiRenderTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/src/OgreGLFBOMultiRenderTarget.cpp
+END
+OgreGLHardwarePixelBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLHardwarePixelBuffer.cpp
+END
+OgreGLATIFSInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/OgreGLATIFSInit.cpp
+END
+OgreGLPixelFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLPixelFormat.cpp
+END
+OgreGLTextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/OgreGLTextureManager.cpp
+END

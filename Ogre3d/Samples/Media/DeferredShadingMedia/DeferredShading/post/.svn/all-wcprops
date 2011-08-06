@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post
+END
+LightMaterial_ps.cg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/LightMaterial_ps.cg
+END
+LightMaterial_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/LightMaterial_ps.glsles
+END
+vs.cg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/vs.cg
+END
+vs.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/vs.glsles
+END
+ShowDS_ps.cg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/ShowDS_ps.cg
+END
+ShowDS_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/ShowDS_ps.glsles
+END
+ShowNormal_ps.cg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/ShowNormal_ps.cg
+END
+ShowNormal_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/ShowNormal_ps.glsles
+END
+LightMaterial_vs.cg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/LightMaterial_vs.cg
+END
+LightMaterial_vs.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/LightMaterial_vs.glsles
+END
+Ambient_ps.cg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/Ambient_ps.cg
+END
+Ambient_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/Ambient_ps.glsles
+END
+ShowColour_ps.cg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/ShowColour_ps.cg
+END
+ShowColour_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/DeferredShading/post/ShowColour_ps.glsles
+END

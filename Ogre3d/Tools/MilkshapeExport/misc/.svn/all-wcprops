@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MilkshapeExport/misc
+END
+MilkshapeExport.rc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MilkshapeExport/misc/MilkshapeExport.rc
+END
+MilkshapeExporter.def
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MilkshapeExport/misc/MilkshapeExporter.def
+END
+winres.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MilkshapeExport/misc/winres.h
+END

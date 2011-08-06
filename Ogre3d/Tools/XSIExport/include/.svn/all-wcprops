@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ogre/!svn/ver/9883/trunk/Tools/XSIExport/include
+END
+OgreXSISkeletonExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/XSIExport/include/OgreXSISkeletonExporter.h
+END
+OgreXSIHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9883/trunk/Tools/XSIExport/include/OgreXSIHelper.h
+END
+OgreXSIMeshExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9883/trunk/Tools/XSIExport/include/OgreXSIMeshExporter.h
+END
+OgreXSIMaterialExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/XSIExport/include/OgreXSIMaterialExporter.h
+END

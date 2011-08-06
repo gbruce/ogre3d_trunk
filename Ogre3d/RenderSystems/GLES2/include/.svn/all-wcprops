@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9944/trunk/RenderSystems/GLES2/include
+END
+OgreGLES2HardwareIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2HardwareIndexBuffer.h
+END
+OgreGLES2HardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2HardwareBufferManager.h
+END
+OgreGLES2GpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2GpuProgram.h
+END
+OgreGLES2Context.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2Context.h
+END
+OgreGLES2RenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9941/trunk/RenderSystems/GLES2/include/OgreGLES2RenderSystem.h
+END
+OgreGLES2HardwareVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2HardwareVertexBuffer.h
+END
+OgreGLES2InternalShaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2InternalShaders.h
+END
+OgreGLES2FBORenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9814/trunk/RenderSystems/GLES2/include/OgreGLES2FBORenderTexture.h
+END
+OgreGLES2DefaultHardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2DefaultHardwareBufferManager.h
+END
+OgreGLES2FBOMultiRenderTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9814/trunk/RenderSystems/GLES2/include/OgreGLES2FBOMultiRenderTarget.h
+END
+OgreGLES2HardwarePixelBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2HardwarePixelBuffer.h
+END
+OgreGLES2PixelFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2PixelFormat.h
+END
+OgreGLES2TextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2TextureManager.h
+END
+OgreGLES2DepthBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9814/trunk/RenderSystems/GLES2/include/OgreGLES2DepthBuffer.h
+END
+OgreGLES2Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2Plugin.h
+END
+OgreGLES2RenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9814/trunk/RenderSystems/GLES2/include/OgreGLES2RenderTexture.h
+END
+OgreGLES2Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2Texture.h
+END
+OgreGLES2Prerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9944/trunk/RenderSystems/GLES2/include/OgreGLES2Prerequisites.h
+END
+OgreGLES2FrameBufferObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9814/trunk/RenderSystems/GLES2/include/OgreGLES2FrameBufferObject.h
+END
+OgreGLES2Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2Support.h
+END
+OgreGLES2GpuProgramManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/OgreGLES2GpuProgramManager.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9938/trunk/RenderSystems/GLES2/src/EAGL
+END
+OgreEAGL2Window.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/src/EAGL/OgreEAGL2Window.mm
+END
+OgreEAGL2Support.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9938/trunk/RenderSystems/GLES2/src/EAGL/OgreEAGL2Support.mm
+END
+OgreEAGLES2Context.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/src/EAGL/OgreEAGLES2Context.mm
+END

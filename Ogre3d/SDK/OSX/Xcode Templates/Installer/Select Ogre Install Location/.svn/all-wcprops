@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ogre/!svn/ver/9896/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location
+END
+InstallerSections.plist
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/ogre/!svn/ver/9167/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/InstallerSections.plist
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/ogre/!svn/ver/9167/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/version.plist
+END
+Select Ogre Install Location_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/ogre/!svn/ver/9167/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/Select%20Ogre%20Install%20Location_Prefix.pch
+END
+Select_Ogre_Install_LocationPane.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/ogre/!svn/ver/9896/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/Select_Ogre_Install_LocationPane.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/ogre/!svn/ver/9167/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/Info.plist
+END
+Select_Ogre_Install_LocationPane.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/ogre/!svn/ver/9896/trunk/SDK/OSX/Xcode%20Templates/Installer/Select%20Ogre%20Install%20Location/Select_Ogre_Install_LocationPane.m
+END

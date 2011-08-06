@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/7604/trunk/Tests/OgreMain/misc/ArchiveTest
+END
+rootfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/7604/trunk/Tests/OgreMain/misc/ArchiveTest/rootfile.txt
+END
+rootfile2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/7604/trunk/Tests/OgreMain/misc/ArchiveTest/rootfile2.txt
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/9681/trunk/Tools/XSIExport/setup
+END
+xsi5install.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/8554/trunk/Tools/XSIExport/setup/xsi5install.wxs
+END
+xsi6install.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/XSIExport/setup/xsi6install.wxs
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/XSIExport/setup/build.bat
+END
+License.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9681/trunk/Tools/XSIExport/setup/License.rtf
+END

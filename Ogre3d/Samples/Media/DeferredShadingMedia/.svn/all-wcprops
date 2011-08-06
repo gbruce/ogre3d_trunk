@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9706/trunk/Samples/Media/DeferredShadingMedia
+END
+ShadowCaster.cg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/ShadowCaster.cg
+END
+ShadowCaster_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/ShadowCaster_ps.glsles
+END
+deferreddemo.material
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/deferreddemo.material
+END
+deferred_post.material
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9706/trunk/Samples/Media/DeferredShadingMedia/deferred_post.material
+END
+ShadowCaster.material
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/ShadowCaster.material
+END
+deferred_post_minilight.material
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ogre/!svn/ver/9706/trunk/Samples/Media/DeferredShadingMedia/deferred_post_minilight.material
+END
+ShadowCaster_vs.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/ShadowCaster_vs.glsles
+END
+deferred_post.program
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/deferred_post.program
+END
+ssao.cg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/ssao.cg
+END
+ShadowCaster.program
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/ShadowCaster.program
+END
+ssao_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/ssao_ps.glsles
+END
+ssao.material
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/ssao.material
+END
+ssao.compositor
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/DeferredShadingMedia/ssao.compositor
+END
+ssao_vs.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/ssao_vs.glsles
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/7541/trunk/Samples/Media/DeferredShadingMedia/COPYING
+END
+ssaoBlurX_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/ssaoBlurX_ps.glsles
+END
+deferred.compositor
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9373/trunk/Samples/Media/DeferredShadingMedia/deferred.compositor
+END
+ssaoBlurY_ps.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/DeferredShadingMedia/ssaoBlurY_ps.glsles
+END

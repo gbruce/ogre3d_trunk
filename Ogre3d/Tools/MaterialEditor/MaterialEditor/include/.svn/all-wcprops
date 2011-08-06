@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include
+END
+ScintillaEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/ScintillaEditor.h
+END
+TechniqueController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/TechniqueController.h
+END
+LogPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/LogPanel.h
+END
+RootEventPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/RootEventPlugin.h
+END
+EditorEventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/EditorEventArgs.h
+END
+MaterialPropertyGridPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialPropertyGridPage.h
+END
+Project.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/Project.h
+END
+GLSLEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/GLSLEditor.h
+END
+SharedDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/SharedDefs.h
+END
+TextureUnitPropertyGridPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/TextureUnitPropertyGridPage.h
+END
+wxOgre.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/wxOgre.h
+END
+LogToTextRedirector.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/LogToTextRedirector.h
+END
+WorkspaceEventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/WorkspaceEventArgs.h
+END
+PassPropertyGridPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/PassPropertyGridPage.h
+END
+MaterialWizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialWizard.h
+END
+MaterialEditorFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialEditorFrame.h
+END
+EditorContributor.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/EditorContributor.h
+END
+EditorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/EditorManager.h
+END
+IconManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/IconManager.h
+END
+EventContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/EventContainer.h
+END
+Editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/Editor.h
+END
+PassWizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/PassWizard.h
+END
+ProjectWizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/ProjectWizard.h
+END
+MaterialScriptEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialScriptEditor.h
+END
+MaterialPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialPage.h
+END
+MaterialDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialDescriptor.h
+END
+TechniquePropertyGridPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/TechniquePropertyGridPage.h
+END
+EventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/EventArgs.h
+END
+Workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/Workspace.h
+END
+Subject.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/Subject.h
+END
+CgEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/CgEditor.h
+END
+DocManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/DocManager.h
+END
+MaterialController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialController.h
+END
+RootEventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/RootEventArgs.h
+END
+PassPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/PassPage.h
+END
+ProjectPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/ProjectPage.h
+END
+SelectionEventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/SelectionEventArgs.h
+END
+TechniqueEventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/TechniqueEventArgs.h
+END
+TextureUnitController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/TextureUnitController.h
+END
+MaterialEditorApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialEditorApp.h
+END
+EditorInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/EditorInput.h
+END
+SelectionService.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/SelectionService.h
+END
+TechniqueWizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/TechniqueWizard.h
+END
+ResourcePanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/ResourcePanel.h
+END
+HLSLEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/HLSLEditor.h
+END
+PassController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/PassController.h
+END
+PropertiesPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/PropertiesPanel.h
+END
+MaterialEventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/MaterialEventArgs.h
+END
+WorkspacePanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/WorkspacePanel.h
+END
+wxOgreLogControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/wxOgreLogControl.h
+END
+CodeEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/CodeEditor.h
+END
+TechniquePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/TechniquePage.h
+END
+CallTipManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/CallTipManager.h
+END
+PassEventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/PassEventArgs.h
+END
+DocPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/DocPanel.h
+END
+ProjectEventArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/include/ProjectEventArgs.h
+END
+Observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/include/Observer.h
+END

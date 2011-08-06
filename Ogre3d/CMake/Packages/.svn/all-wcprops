@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/ogre/!svn/ver/9865/trunk/CMake/Packages
+END
+FindPOCO.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Packages/FindPOCO.cmake
+END
+FindZLIB.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9865/trunk/CMake/Packages/FindZLIB.cmake
+END
+FindDirectX.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Packages/FindDirectX.cmake
+END
+FindCarbon.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Packages/FindCarbon.cmake
+END
+FindWix.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Packages/FindWix.cmake
+END
+FindTBB.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9267/trunk/CMake/Packages/FindTBB.cmake
+END
+FindOpenGLES.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9865/trunk/CMake/Packages/FindOpenGLES.cmake
+END
+FindDoxygen.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9789/trunk/CMake/Packages/FindDoxygen.cmake
+END
+FindIOKit.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Packages/FindIOKit.cmake
+END
+FindCppUnit.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Packages/FindCppUnit.cmake
+END
+FindFreetype.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9865/trunk/CMake/Packages/FindFreetype.cmake
+END
+FindFreeImage.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9865/trunk/CMake/Packages/FindFreeImage.cmake
+END
+FindCocoa.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Packages/FindCocoa.cmake
+END
+FindiPhoneSDK.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/8787/trunk/CMake/Packages/FindiPhoneSDK.cmake
+END
+FindCg.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9186/trunk/CMake/Packages/FindCg.cmake
+END
+FindOIS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9865/trunk/CMake/Packages/FindOIS.cmake
+END
+FindOGRE.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Packages/FindOGRE.cmake
+END
+FindZZip.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9865/trunk/CMake/Packages/FindZZip.cmake
+END
+FindOpenGLES2.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9583/trunk/CMake/Packages/FindOpenGLES2.cmake
+END

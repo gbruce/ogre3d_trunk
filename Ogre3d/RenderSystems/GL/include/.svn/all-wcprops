@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/include
+END
+OgreGLPBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLPBuffer.h
+END
+OgreGLHardwarePixelBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLHardwarePixelBuffer.h
+END
+OgreGLPixelFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLPixelFormat.h
+END
+OgreGLATIFSInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/OgreGLATIFSInit.h
+END
+OgreGLTextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLTextureManager.h
+END
+OgreGLDepthBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/include/OgreGLDepthBuffer.h
+END
+OgreGLTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLTexture.h
+END
+OgreGLRenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/include/OgreGLRenderTexture.h
+END
+OgreWin32RenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreWin32RenderTexture.h
+END
+OgreGLRenderToVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLRenderToVertexBuffer.h
+END
+OgreGLFrameBufferObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/include/OgreGLFrameBufferObject.h
+END
+OgreGLSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/include/OgreGLSupport.h
+END
+OgreGLGpuProgramManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLGpuProgramManager.h
+END
+OgreGLHardwareIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLHardwareIndexBuffer.h
+END
+OgreGLHardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLHardwareBufferManager.h
+END
+OgreGLPBRenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLPBRenderTexture.h
+END
+OgreGLRenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/include/OgreGLRenderSystem.h
+END
+OgreGLHardwareVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLHardwareVertexBuffer.h
+END
+OgreGLFBOMultiRenderTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/include/OgreGLFBOMultiRenderTarget.h
+END
+OgreGLPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/include/OgreGLPlugin.h
+END
+OgreWin32GLSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreWin32GLSupport.h
+END
+OgreGLHardwareOcclusionQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLHardwareOcclusionQuery.h
+END
+OgreGLPrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/include/OgreGLPrerequisites.h
+END
+OgreWin32Prerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/include/OgreWin32Prerequisites.h
+END
+OgreWin32Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreWin32Window.h
+END
+OgreSDLGLSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/OgreSDLGLSupport.h
+END
+OgreGLGpuNvparseProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLGpuNvparseProgram.h
+END
+OgreGLGpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLGpuProgram.h
+END
+OgreWin32Context.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreWin32Context.h
+END
+OgreGLContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLContext.h
+END
+OgreSDLPrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/include/OgreSDLPrerequisites.h
+END
+OgreSDLWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/include/OgreSDLWindow.h
+END
+OgreGLDefaultHardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GL/include/OgreGLDefaultHardwareBufferManager.h
+END
+OgreGLFBORenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/GL/include/OgreGLFBORenderTexture.h
+END

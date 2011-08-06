@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/8554/trunk/Tools/MilkshapeExport/setup
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MilkshapeExport/setup/build.bat
+END
+milkshapeinstall.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/8554/trunk/Tools/MilkshapeExport/setup/milkshapeinstall.wxs
+END
+License.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/5331/trunk/Tools/MilkshapeExport/setup/License.rtf
+END

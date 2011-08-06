@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9615/trunk/RenderSystems/GL/src/win32
+END
+OgreGLUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9615/trunk/RenderSystems/GL/src/win32/OgreGLUtil.h
+END
+OgreWin32Context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9432/trunk/RenderSystems/GL/src/win32/OgreWin32Context.cpp
+END

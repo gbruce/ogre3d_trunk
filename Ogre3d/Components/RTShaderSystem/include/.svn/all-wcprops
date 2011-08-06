@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9950/trunk/Components/RTShaderSystem/include
+END
+OgreShaderFFPTexturing.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9903/trunk/Components/RTShaderSystem/include/OgreShaderFFPTexturing.h
+END
+OgreShaderHLSLProgramProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9538/trunk/Components/RTShaderSystem/include/OgreShaderHLSLProgramProcessor.h
+END
+OgreRTShaderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9914/trunk/Components/RTShaderSystem/include/OgreRTShaderSystem.h
+END
+OgreShaderSubRenderState.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9950/trunk/Components/RTShaderSystem/include/OgreShaderSubRenderState.h
+END
+OgreShaderFFPColour.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9935/trunk/Components/RTShaderSystem/include/OgreShaderFFPColour.h
+END
+OgreShaderProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9538/trunk/Components/RTShaderSystem/include/OgreShaderProgram.h
+END
+OgreShaderFFPFog.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9935/trunk/Components/RTShaderSystem/include/OgreShaderFFPFog.h
+END
+OgreShaderFFPTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9935/trunk/Components/RTShaderSystem/include/OgreShaderFFPTransform.h
+END
+OgreShaderExIntegratedPSSM3.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9935/trunk/Components/RTShaderSystem/include/OgreShaderExIntegratedPSSM3.h
+END
+OgreShaderExPerPixelLighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9935/trunk/Components/RTShaderSystem/include/OgreShaderExPerPixelLighting.h
+END
+OgreShaderFFPRenderState.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9570/trunk/Components/RTShaderSystem/include/OgreShaderFFPRenderState.h
+END
+OgreShaderGLSLESProgramWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9583/trunk/Components/RTShaderSystem/include/OgreShaderGLSLESProgramWriter.h
+END
+OgreShaderCGProgramWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9581/trunk/Components/RTShaderSystem/include/OgreShaderCGProgramWriter.h
+END
+OgreShaderParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9581/trunk/Components/RTShaderSystem/include/OgreShaderParameter.h
+END
+OgreShaderGLSLESProgramProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ogre/!svn/ver/9583/trunk/Components/RTShaderSystem/include/OgreShaderGLSLESProgramProcessor.h
+END
+OgreShaderCGProgramProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9538/trunk/Components/RTShaderSystem/include/OgreShaderCGProgramProcessor.h
+END
+OgreShaderProgramSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9532/trunk/Components/RTShaderSystem/include/OgreShaderProgramSet.h
+END
+OgreShaderExLayeredBlending.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9950/trunk/Components/RTShaderSystem/include/OgreShaderExLayeredBlending.h
+END
+OgreShaderFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9581/trunk/Components/RTShaderSystem/include/OgreShaderFunction.h
+END
+OgreShaderGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9950/trunk/Components/RTShaderSystem/include/OgreShaderGenerator.h
+END
+OgreShaderGLSLProgramWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9525/trunk/Components/RTShaderSystem/include/OgreShaderGLSLProgramWriter.h
+END
+OgreShaderHLSLProgramWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9538/trunk/Components/RTShaderSystem/include/OgreShaderHLSLProgramWriter.h
+END
+OgreShaderGLSLProgramProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9538/trunk/Components/RTShaderSystem/include/OgreShaderGLSLProgramProcessor.h
+END
+OgreShaderMaterialSerializerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/ogre/!svn/ver/9950/trunk/Components/RTShaderSystem/include/OgreShaderMaterialSerializerListener.h
+END
+OgreShaderProgramWriterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9525/trunk/Components/RTShaderSystem/include/OgreShaderProgramWriterManager.h
+END
+OgreShaderFFPLighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9935/trunk/Components/RTShaderSystem/include/OgreShaderFFPLighting.h
+END
+OgreShaderProgramManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9551/trunk/Components/RTShaderSystem/include/OgreShaderProgramManager.h
+END
+OgreShaderProgramWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9525/trunk/Components/RTShaderSystem/include/OgreShaderProgramWriter.h
+END
+OgreShaderPrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9789/trunk/Components/RTShaderSystem/include/OgreShaderPrerequisites.h
+END
+OgreShaderFunctionAtom.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9525/trunk/Components/RTShaderSystem/include/OgreShaderFunctionAtom.h
+END
+OgreShaderProgramProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9583/trunk/Components/RTShaderSystem/include/OgreShaderProgramProcessor.h
+END
+OgreShaderExNormalMapLighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9935/trunk/Components/RTShaderSystem/include/OgreShaderExNormalMapLighting.h
+END
+OgreShaderScriptTranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9950/trunk/Components/RTShaderSystem/include/OgreShaderScriptTranslator.h
+END
+OgreShaderRenderState.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9570/trunk/Components/RTShaderSystem/include/OgreShaderRenderState.h
+END
+OgreShaderFFPRenderStateBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ogre/!svn/ver/9670/trunk/Components/RTShaderSystem/include/OgreShaderFFPRenderStateBuilder.h
+END

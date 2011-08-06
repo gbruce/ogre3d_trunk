@@ -1,0 +1,83 @@
+10
+
+dir
+9952
+https://svn.ogre3d.org/svnroot/ogre/trunk/PlugIns
+https://svn.ogre3d.org/svnroot/ogre
+
+
+
+2010-03-16T15:03:03.688180Z
+9913
+sinbad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8631bf8a-c64b-0410-883c-f3eb003322f7
+
+ParticleFX
+dir
+
+PCZSceneManager
+dir
+
+OctreeSceneManager
+dir
+
+CgProgramManager
+dir
+
+EXRCodec
+dir
+
+BSPSceneManager
+dir
+
+OctreeZone
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2011-08-06T23:28:22.000000Z
+9e0bc12870b2dd1815e11425290b686f
+2009-07-10T04:02:05.427303Z
+8787
+masterfalcon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1145
+

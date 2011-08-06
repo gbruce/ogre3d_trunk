@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9615/trunk/Samples/DeferredShading/include
+END
+DLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/DLight.h
+END
+DeferredLightCP.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/DeferredLightCP.h
+END
+ListenerFactoryLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9615/trunk/Samples/DeferredShading/include/ListenerFactoryLogic.h
+END
+LightMaterialGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/LightMaterialGenerator.h
+END
+NullSchemeHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/NullSchemeHandler.h
+END
+DeferredShading.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/DeferredShading.h
+END
+SharedData.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/SharedData.h
+END
+GBufferSchemeHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9581/trunk/Samples/DeferredShading/include/GBufferSchemeHandler.h
+END
+SSAOLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/SSAOLogic.h
+END
+MaterialGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/MaterialGenerator.h
+END
+GBufferMaterialGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/include/GBufferMaterialGenerator.h
+END
+AmbientLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/DeferredShading/include/AmbientLight.h
+END
+GeomUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/DeferredShading/include/GeomUtils.h
+END

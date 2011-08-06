@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MilkshapeExport/include
+END
+MilkshapePlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MilkshapeExport/include/MilkshapePlugin.h
+END
+msPlugIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MilkshapeExport/include/msPlugIn.h
+END
+MilkshapeExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MilkshapeExport/include/MilkshapeExport.h
+END
+msLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MilkshapeExport/include/msLib.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MilkshapeExport/include/resource.h
+END

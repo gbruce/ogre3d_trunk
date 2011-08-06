@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/ogre/!svn/ver/9913/trunk/CMake/Utils
+END
+OgreGetVersion.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Utils/OgreGetVersion.cmake
+END
+FindPkgMacros.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Utils/FindPkgMacros.cmake
+END
+PreprocessorUtils.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Utils/PreprocessorUtils.cmake
+END
+OgreConfigTargets.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9913/trunk/CMake/Utils/OgreConfigTargets.cmake
+END
+PrecompiledHeader.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9648/trunk/CMake/Utils/PrecompiledHeader.cmake
+END
+OgreFindFrameworks.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Utils/OgreFindFrameworks.cmake
+END
+MacroLogFeature.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9325/trunk/CMake/Utils/MacroLogFeature.cmake
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/9367/trunk/OgreMain/src/nedmalloc
+END
+nedmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/8787/trunk/OgreMain/src/nedmalloc/nedmalloc.c
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/8131/trunk/OgreMain/src/nedmalloc/License.txt
+END
+nedmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/8131/trunk/OgreMain/src/nedmalloc/nedmalloc.h
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/8131/trunk/OgreMain/src/nedmalloc/Readme.txt
+END
+malloc.c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9367/trunk/OgreMain/src/nedmalloc/malloc.c.h
+END

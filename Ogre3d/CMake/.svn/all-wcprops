@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/ogre/!svn/ver/9913/trunk/CMake
+END
+PrepareThreadingOptions.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9742/trunk/CMake/PrepareThreadingOptions.cmake
+END
+ConfigureBuild.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9913/trunk/CMake/ConfigureBuild.cmake
+END
+InstallResources.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9883/trunk/CMake/InstallResources.cmake
+END
+Packaging.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/9913/trunk/CMake/Packaging.cmake
+END
+Dependencies.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Dependencies.cmake
+END
+FeatureSummary.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9815/trunk/CMake/FeatureSummary.cmake
+END
+InstallDependencies.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9913/trunk/CMake/InstallDependencies.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/CMakeLists.txt
+END

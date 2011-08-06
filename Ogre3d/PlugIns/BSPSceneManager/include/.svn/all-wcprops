@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include
+END
+OgreBspLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreBspLevel.h
+END
+OgreBspSceneManagerPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreBspSceneManagerPlugin.h
+END
+OgreBspSceneManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreBspSceneManager.h
+END
+OgreQuake3Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/7604/trunk/PlugIns/BSPSceneManager/include/OgreQuake3Types.h
+END
+OgreQuake3Shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreQuake3Shader.h
+END
+OgreQuake3Level.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreQuake3Level.h
+END
+OgreBspResourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreBspResourceManager.h
+END
+OgreBspSceneNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreBspSceneNode.h
+END
+OgreBspPrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreBspPrerequisites.h
+END
+OgreBspNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreBspNode.h
+END
+OgreQuake3ShaderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/include/OgreQuake3ShaderManager.h
+END

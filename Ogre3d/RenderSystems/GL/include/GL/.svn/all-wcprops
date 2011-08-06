@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/8319/trunk/RenderSystems/GL/include/GL
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/GL/wglext.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/GL/glxext.h
+END
+glew.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/GL/glew.h
+END
+glxtokens.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/GL/glxtokens.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/GL/gl.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/GL/glext.h
+END
+wglew.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/8319/trunk/RenderSystems/GL/include/GL/wglew.h
+END
+glxew.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/include/GL/glxew.h
+END

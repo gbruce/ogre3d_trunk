@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources
+END
+PhyExport.def
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PhyExport.def
+END
+PublishedInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PublishedInterface.cpp
+END
+PhyExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PhyExport.cpp
+END
+PhyExport.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PhyExport.vcproj
+END
+PhyExport.rc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PhyExport.rc
+END
+PublishedInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PublishedInterface.h
+END
+PhyExport.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/ogre/!svn/ver/5797/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PhyExport.dsp
+END
+PhyExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PhyExport.h
+END
+PhyExport.sln
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PhyExport.sln
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/resource.h
+END
+DllEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/DllEntry.cpp
+END
+PhyExport.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/ogre/!svn/ver/5797/trunk/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources/PhyExport.dsw
+END

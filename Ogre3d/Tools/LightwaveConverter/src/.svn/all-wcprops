@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/8444/trunk/Tools/LightwaveConverter/src
+END
+lwLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/LightwaveConverter/src/lwLayer.cpp
+END
+lwEnvelope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/LightwaveConverter/src/lwEnvelope.cpp
+END
+lwo2mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/LightwaveConverter/src/lwo2mesh.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/LightwaveConverter/src/main.cpp
+END
+Vector3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/LightwaveConverter/src/Vector3.cpp
+END
+lwReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/LightwaveConverter/src/lwReader.cpp
+END
+lwPolygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/LightwaveConverter/src/lwPolygon.cpp
+END
+BitArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/LightwaveConverter/src/BitArray.cpp
+END

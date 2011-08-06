@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ogre/!svn/ver/8362/trunk/Docs/src/paging
+END
+95.session
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/8362/trunk/Docs/src/paging/95.session
+END
+paging.prj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/8362/trunk/Docs/src/paging/paging.prj
+END
+tools
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/8349/trunk/Docs/src/paging/tools
+END
+stereotypes
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/8349/trunk/Docs/src/paging/stereotypes
+END
+cpp_includes
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/8349/trunk/Docs/src/paging/cpp_includes
+END
+128095.diagram
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/8362/trunk/Docs/src/paging/128095.diagram
+END
+generation_settings
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/8349/trunk/Docs/src/paging/generation_settings
+END
+idl_includes
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/8349/trunk/Docs/src/paging/idl_includes
+END
+java_imports
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/8349/trunk/Docs/src/paging/java_imports
+END
+python_imports
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/8349/trunk/Docs/src/paging/python_imports
+END

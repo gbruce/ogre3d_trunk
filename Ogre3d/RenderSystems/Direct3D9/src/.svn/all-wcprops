@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9888/trunk/RenderSystems/Direct3D9/src
+END
+OgreD3D9DepthBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D9/src/OgreD3D9DepthBuffer.cpp
+END
+OgreD3D9Plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9Plugin.cpp
+END
+OgreD3D9Device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D9/src/OgreD3D9Device.cpp
+END
+OgreD3D9Texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9888/trunk/RenderSystems/Direct3D9/src/OgreD3D9Texture.cpp
+END
+OgreD3D9EngineDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9664/trunk/RenderSystems/Direct3D9/src/OgreD3D9EngineDll.cpp
+END
+OgreD3D9MultiRenderTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9MultiRenderTarget.cpp
+END
+OgreD3D9HardwareOcclusionQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9402/trunk/RenderSystems/Direct3D9/src/OgreD3D9HardwareOcclusionQuery.cpp
+END
+OgreD3D9RenderWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D9/src/OgreD3D9RenderWindow.cpp
+END
+OgreD3D9VideoModeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9VideoModeList.cpp
+END
+OgreD3D9VideoMode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9VideoMode.cpp
+END
+OgreD3D9Mappings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9Mappings.cpp
+END
+OgreD3D9GpuProgramManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9GpuProgramManager.cpp
+END
+OgreD3D9HardwareIndexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9091/trunk/RenderSystems/Direct3D9/src/OgreD3D9HardwareIndexBuffer.cpp
+END
+OgreD3D9HardwareBufferManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9HardwareBufferManager.cpp
+END
+OgreD3D9HLSLProgramFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9522/trunk/RenderSystems/Direct3D9/src/OgreD3D9HLSLProgramFactory.cpp
+END
+OgreD3D9ResourceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9ResourceManager.cpp
+END
+OgreD3D9GpuProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9561/trunk/RenderSystems/Direct3D9/src/OgreD3D9GpuProgram.cpp
+END
+OgreD3D9VertexDeclaration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9506/trunk/RenderSystems/Direct3D9/src/OgreD3D9VertexDeclaration.cpp
+END
+OgreD3D9RenderSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D9/src/OgreD3D9RenderSystem.cpp
+END
+OgreD3D9HardwareVertexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9091/trunk/RenderSystems/Direct3D9/src/OgreD3D9HardwareVertexBuffer.cpp
+END
+OgreD3D9DriverList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9DriverList.cpp
+END
+OgreD3D9Resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9Resource.cpp
+END
+OgreD3D9HardwarePixelBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9223/trunk/RenderSystems/Direct3D9/src/OgreD3D9HardwarePixelBuffer.cpp
+END
+OgreD3D9HLSLProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/src/OgreD3D9HLSLProgram.cpp
+END
+OgreD3D9DeviceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9861/trunk/RenderSystems/Direct3D9/src/OgreD3D9DeviceManager.cpp
+END
+OgreD3D9Driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9522/trunk/RenderSystems/Direct3D9/src/OgreD3D9Driver.cpp
+END
+OgreD3D9TextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D9/src/OgreD3D9TextureManager.cpp
+END

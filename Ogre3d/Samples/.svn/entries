@@ -1,0 +1,170 @@
+10
+
+dir
+9952
+https://svn.ogre3d.org/svnroot/ogre/trunk/Samples
+https://svn.ogre3d.org/svnroot/ogre
+
+
+
+2010-03-20T18:24:25.101979Z
+9951
+nirhasson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8631bf8a-c64b-0410-883c-f3eb003322f7
+
+SkyBox
+dir
+
+Water
+dir
+
+BSP
+dir
+
+Common
+dir
+
+OceanDemo
+dir
+
+Character
+dir
+
+ParticleGS
+dir
+
+PCZTestApp
+dir
+
+Instancing
+dir
+
+Dot3Bump
+dir
+
+Compositor
+dir
+
+Fresnel
+dir
+
+BezierPatch
+dir
+
+SphereMapping
+dir
+
+Terrain
+dir
+
+Lighting
+dir
+
+Transparency
+dir
+
+ShaderSystem
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2011-08-06T23:30:14.000000Z
+a8b7251419a7df00db817afea67ffe92
+2010-03-05T13:03:09.468456Z
+9861
+sinbad
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8200
+
+DeferredShading
+dir
+
+Media
+dir
+
+FacialAnimation
+dir
+
+Grass
+dir
+
+Browser
+dir
+
+SkyPlane
+dir
+
+VolumeTex
+dir
+
+Isosurf
+dir
+
+CubeMapping
+dir
+
+TextureFX
+dir
+
+ParticleFX
+dir
+
+CelShading
+dir
+
+SkeletalAnimation
+dir
+
+Shadows
+dir
+
+SkyDome
+dir
+
+DynTex
+dir
+
+CameraTrack
+dir
+
+Smoke
+dir
+

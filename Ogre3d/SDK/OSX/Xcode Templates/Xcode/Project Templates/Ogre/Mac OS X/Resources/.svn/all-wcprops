@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Resources
+END
+plugins.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/ogre/!svn/ver/9167/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Resources/plugins.cfg
+END
+resources.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/ogre/!svn/ver/9452/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Resources/resources.cfg
+END
+ogre.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/ogre/!svn/ver/9167/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Resources/ogre.cfg
+END

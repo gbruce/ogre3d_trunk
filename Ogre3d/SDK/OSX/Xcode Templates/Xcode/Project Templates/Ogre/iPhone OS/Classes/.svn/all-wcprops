@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Classes
+END
+OgreFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/ogre/!svn/ver/9620/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Classes/OgreFramework.h
+END
+OgreStaticPluginLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/ogre/!svn/ver/9167/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Classes/OgreStaticPluginLoader.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Classes/main.cpp
+END
+DemoApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/ogre/!svn/ver/9883/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Classes/DemoApp.cpp
+END
+DemoApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Classes/DemoApp.h
+END
+OgreFramework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/iPhone%20OS/Classes/OgreFramework.cpp
+END

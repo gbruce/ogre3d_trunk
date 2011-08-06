@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Classes
+END
+OgreFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/ogre/!svn/ver/9620/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Classes/OgreFramework.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Classes/main.cpp
+END
+DemoApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/ogre/!svn/ver/9883/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Classes/DemoApp.cpp
+END
+DemoApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Classes/DemoApp.h
+END
+OgreFramework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX/Xcode%20Templates/Xcode/Project%20Templates/Ogre/Mac%20OS%20X/Classes/OgreFramework.cpp
+END

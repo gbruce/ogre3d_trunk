@@ -1,0 +1,80 @@
+10
+
+dir
+9952
+https://svn.ogre3d.org/svnroot/ogre/trunk/RenderSystems
+https://svn.ogre3d.org/svnroot/ogre
+
+
+
+2010-03-20T06:31:06.590048Z
+9944
+masterfalcon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8631bf8a-c64b-0410-883c-f3eb003322f7
+
+Direct3D10
+dir
+
+GL
+dir
+
+Direct3D11
+dir
+
+Direct3D9
+dir
+
+GLES
+dir
+
+GLES2
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2011-08-06T23:30:20.000000Z
+886214121cdb0d54a0c435e6f032b81b
+2010-01-11T00:40:43.539287Z
+9583
+masterfalcon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2071
+

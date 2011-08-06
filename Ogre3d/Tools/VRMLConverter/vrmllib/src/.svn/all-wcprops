@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/src
+END
+commentstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/src/commentstream.cpp
+END
+file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/src/file.cpp
+END
+commentstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/src/commentstream.h
+END
+types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/src/types.cpp
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/src/node.cpp
+END
+nodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/src/nodes.cpp
+END
+indexed_face_set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/src/indexed_face_set.cpp
+END

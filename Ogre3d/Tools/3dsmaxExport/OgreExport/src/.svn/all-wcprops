@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/3dsmaxExport/OgreExport/src
+END
+OgreMaxExportTabSkeletalAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxExportTabSkeletalAnimation.cpp
+END
+OgreMaxVertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxVertex.cpp
+END
+dllmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/3dsmaxExport/OgreExport/src/dllmain.cpp
+END
+OgreMaxMeshExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxMeshExport.cpp
+END
+OgreMaxMeshXMLExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxMeshXMLExport.cpp
+END
+OgreMaxMaterialExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxMaterialExport.cpp
+END
+OgreMaxExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxExport.cpp
+END
+OgreMaxConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxConfig.cpp
+END
+OgreMaxExportTabMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxExportTabMesh.cpp
+END
+OgreMaxExportTabGeneral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxExportTabGeneral.cpp
+END
+OgreMaxExportTabVertexAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxExportTabVertexAnimation.cpp
+END
+OgreMaxExportTabMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/3dsmaxExport/OgreExport/src/OgreMaxExportTabMaterial.cpp
+END

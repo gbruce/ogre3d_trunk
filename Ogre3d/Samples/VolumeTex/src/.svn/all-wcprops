@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/9664/trunk/Samples/VolumeTex/src
+END
+VolumeTex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9664/trunk/Samples/VolumeTex/src/VolumeTex.cpp
+END
+VolumeRenderable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9273/trunk/Samples/VolumeTex/src/VolumeRenderable.cpp
+END
+ThingRenderable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9086/trunk/Samples/VolumeTex/src/ThingRenderable.cpp
+END

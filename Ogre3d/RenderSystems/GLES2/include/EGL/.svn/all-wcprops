@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9893/trunk/RenderSystems/GLES2/include/EGL
+END
+OgreEGLContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9893/trunk/RenderSystems/GLES2/include/EGL/OgreEGLContext.h
+END
+OgreEGLWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/EGL/OgreEGLWindow.h
+END
+OgreEGLSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/EGL/OgreEGLSupport.h
+END
+OgreEGLRenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/EGL/OgreEGLRenderTexture.h
+END
+OgreGLES2Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/include/EGL/OgreGLES2Util.h
+END

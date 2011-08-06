@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9861/trunk/Samples/DeferredShading/src
+END
+DeferredShading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9797/trunk/Samples/DeferredShading/src/DeferredShading.cpp
+END
+DeferredShadingDemo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9706/trunk/Samples/DeferredShading/src/DeferredShadingDemo.cpp
+END
+GBufferSchemeHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9212/trunk/Samples/DeferredShading/src/GBufferSchemeHandler.cpp
+END
+SSAOLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/src/SSAOLogic.cpp
+END
+MaterialGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/src/MaterialGenerator.cpp
+END
+GBufferMaterialGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9159/trunk/Samples/DeferredShading/src/GBufferMaterialGenerator.cpp
+END
+AmbientLight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/DeferredShading/src/AmbientLight.cpp
+END
+GeomUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/DeferredShading/src/GeomUtils.cpp
+END
+DLight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9706/trunk/Samples/DeferredShading/src/DLight.cpp
+END
+DeferredLightCP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9706/trunk/Samples/DeferredShading/src/DeferredLightCP.cpp
+END
+LightMaterialGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9861/trunk/Samples/DeferredShading/src/LightMaterialGenerator.cpp
+END

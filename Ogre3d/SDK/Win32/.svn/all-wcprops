@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/Win32
+END
+mingw_BuildSamples.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/Win32/mingw_BuildSamples.txt
+END
+removeabsolutepaths.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9742/trunk/SDK/Win32/removeabsolutepaths.vbs
+END
+buildsdk.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/Win32/buildsdk.bat
+END
+mingw_BuildSamples.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/Win32/mingw_BuildSamples.bat
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/Win32/readme.txt
+END
+mingwsdk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/Win32/mingwsdk.sh
+END

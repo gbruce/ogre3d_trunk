@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/9615/trunk/RenderSystems/GL/src/SDL
+END
+OgreSDLGLSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/SDL/OgreSDLGLSupport.cpp
+END
+OgreGLUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9615/trunk/RenderSystems/GL/src/SDL/OgreGLUtil.h
+END
+OgreSDLWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/SDL/OgreSDLWindow.cpp
+END

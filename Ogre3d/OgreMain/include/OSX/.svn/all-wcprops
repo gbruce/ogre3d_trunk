@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/9861/trunk/OgreMain/include/OSX
+END
+ogrelogo.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/8849/trunk/OgreMain/include/OSX/ogrelogo.png
+END
+OgreErrorDialogImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9861/trunk/OgreMain/include/OSX/OgreErrorDialogImp.h
+END
+Ogre_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/8787/trunk/OgreMain/include/OSX/Ogre_Prefix.pch
+END
+macUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9861/trunk/OgreMain/include/OSX/macUtils.h
+END
+OgreTimerImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9861/trunk/OgreMain/include/OSX/OgreTimerImp.h
+END
+OgreOSXCocoaView.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9861/trunk/OgreMain/include/OSX/OgreOSXCocoaView.h
+END
+OgreConfigDialogImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9861/trunk/OgreMain/include/OSX/OgreConfigDialogImp.h
+END

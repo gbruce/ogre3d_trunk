@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/gtk
+END
+OgreConfigDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/gtk/OgreConfigDialog.cpp
+END
+GLX_backdrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/7604/trunk/OgreMain/src/gtk/GLX_backdrop.h
+END
+OgreErrorDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/gtk/OgreErrorDialog.cpp
+END

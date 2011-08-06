@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/7604/trunk/Tests/Media/CustomCapabilities
+END
+customCapabilitiesTest.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/7604/trunk/Tests/Media/CustomCapabilities/customCapabilitiesTest.cfg
+END
+test1.rendercaps
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/7056/trunk/Tests/Media/CustomCapabilities/test1.rendercaps
+END
+realisticLowEnd.rendercaps
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/7056/trunk/Tests/Media/CustomCapabilities/realisticLowEnd.rendercaps
+END

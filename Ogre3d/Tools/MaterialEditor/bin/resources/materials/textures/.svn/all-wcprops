@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/7319/trunk/Tools/MaterialEditor/bin/resources/materials/textures
+END
+WeirdEye.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/7283/trunk/Tools/MaterialEditor/bin/resources/materials/textures/WeirdEye.png
+END
+dirt01.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/7319/trunk/Tools/MaterialEditor/bin/resources/materials/textures/dirt01.jpg
+END
+GreenSkin.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ogre/!svn/ver/7283/trunk/Tools/MaterialEditor/bin/resources/materials/textures/GreenSkin.jpg
+END
+spheremap.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ogre/!svn/ver/7283/trunk/Tools/MaterialEditor/bin/resources/materials/textures/spheremap.png
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/9681/trunk/Samples/Compositor/src
+END
+Compositor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9681/trunk/Samples/Compositor/src/Compositor.cpp
+END
+HelperLogics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9581/trunk/Samples/Compositor/src/HelperLogics.cpp
+END
+CompositorDemo_FrameListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Compositor/src/CompositorDemo_FrameListener.cpp
+END
+ItemSelectorViewManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9086/trunk/Samples/Compositor/src/ItemSelectorViewManager.cpp
+END

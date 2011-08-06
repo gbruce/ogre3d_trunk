@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/9615/trunk/RenderSystems/GL/src/GLX
+END
+OgreGLXWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/GLX/OgreGLXWindow.cpp
+END
+OgreGLUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9615/trunk/RenderSystems/GL/src/GLX/OgreGLUtil.h
+END
+OgreGLXGLSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9522/trunk/RenderSystems/GL/src/GLX/OgreGLXGLSupport.cpp
+END
+OgreGLXRenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/GLX/OgreGLXRenderTexture.cpp
+END
+OgreGLXContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/GLX/OgreGLXContext.cpp
+END

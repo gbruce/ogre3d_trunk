@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/9361/trunk/OgreMain/src/Threading
+END
+OgreDefaultWorkQueueTBB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/Threading/OgreDefaultWorkQueueTBB.cpp
+END
+OgreDefaultWorkQueueStandard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9361/trunk/OgreMain/src/Threading/OgreDefaultWorkQueueStandard.cpp
+END

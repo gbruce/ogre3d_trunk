@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D11/include
+END
+OgreD3D11HardwareIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11HardwareIndexBuffer.h
+END
+OgreFixedFuncState.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreFixedFuncState.h
+END
+OgreD3D11HardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11HardwareBufferManager.h
+END
+OgreD3D11HLSLProgramFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11HLSLProgramFactory.h
+END
+OgreD3D11GpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11GpuProgram.h
+END
+OgreD3D11VertexDeclaration.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11VertexDeclaration.h
+END
+OgreFixedFuncEmuShaderGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreFixedFuncEmuShaderGenerator.h
+END
+OgreD3D11RenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D11/include/OgreD3D11RenderSystem.h
+END
+OgreD3D11HardwareVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11HardwareVertexBuffer.h
+END
+OgreD3D11HardwareBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11HardwareBuffer.h
+END
+OgreD3D11DriverList.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11DriverList.h
+END
+OgreD3D11HardwarePixelBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9691/trunk/RenderSystems/Direct3D11/include/OgreD3D11HardwarePixelBuffer.h
+END
+OgreD3D11HLSLProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9476/trunk/RenderSystems/Direct3D11/include/OgreD3D11HLSLProgram.h
+END
+OgreD3D11Driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9467/trunk/RenderSystems/Direct3D11/include/OgreD3D11Driver.h
+END
+OgreD3D11TextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11TextureManager.h
+END
+OgreD3D11DepthBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D11/include/OgreD3D11DepthBuffer.h
+END
+OgreD3D11Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11Plugin.h
+END
+OgreD3D11Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9476/trunk/RenderSystems/Direct3D11/include/OgreD3D11Device.h
+END
+OgreD3D11Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11Texture.h
+END
+OgreD3D11MultiRenderTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11MultiRenderTarget.h
+END
+OgreD3D11HardwareOcclusionQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11HardwareOcclusionQuery.h
+END
+OgreD3D11Prerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D11/include/OgreD3D11Prerequisites.h
+END
+OgreHlslFixedFuncEmuShaderGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreHlslFixedFuncEmuShaderGenerator.h
+END
+OgreD3D11RenderWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9467/trunk/RenderSystems/Direct3D11/include/OgreD3D11RenderWindow.h
+END
+OgreD3D11VideoModeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11VideoModeList.h
+END
+OgreFixedFuncEmuShaderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreFixedFuncEmuShaderManager.h
+END
+OgreD3D11RenderToVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11RenderToVertexBuffer.h
+END
+OgreD3D11VideoMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11VideoMode.h
+END
+OgreD3D11Mappings.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9476/trunk/RenderSystems/Direct3D11/include/OgreD3D11Mappings.h
+END
+OgreD3D11GpuProgramManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9447/trunk/RenderSystems/Direct3D11/include/OgreD3D11GpuProgramManager.h
+END

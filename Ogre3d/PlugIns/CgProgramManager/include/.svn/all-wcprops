@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/CgProgramManager/include
+END
+OgreCgPrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/CgProgramManager/include/OgreCgPrerequisites.h
+END
+OgreCgProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/CgProgramManager/include/OgreCgProgram.h
+END
+OgreCgFxScriptLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/CgProgramManager/include/OgreCgFxScriptLoader.h
+END
+OgreCgPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/CgProgramManager/include/OgreCgPlugin.h
+END
+OgreCgProgramFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/CgProgramManager/include/OgreCgProgramFactory.h
+END

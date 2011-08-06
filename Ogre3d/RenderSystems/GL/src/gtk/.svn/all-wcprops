@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/gtk
+END
+OgreGLUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/gtk/OgreGLUtil.h
+END
+OgreGTKGLSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/gtk/OgreGTKGLSupport.cpp
+END
+OgreGTKWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/gtk/OgreGTKWindow.cpp
+END

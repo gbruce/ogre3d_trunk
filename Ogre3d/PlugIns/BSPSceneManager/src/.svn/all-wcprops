@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9664/trunk/PlugIns/BSPSceneManager/src
+END
+OgreQuake3Level.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/src/OgreQuake3Level.cpp
+END
+OgreBspResourceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/src/OgreBspResourceManager.cpp
+END
+OgreBspSceneNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/src/OgreBspSceneNode.cpp
+END
+OgreBspSceneManagerDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9664/trunk/PlugIns/BSPSceneManager/src/OgreBspSceneManagerDll.cpp
+END
+OgreBspNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/src/OgreBspNode.cpp
+END
+OgreQuake3ShaderManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9322/trunk/PlugIns/BSPSceneManager/src/OgreQuake3ShaderManager.cpp
+END
+OgreBspLevel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/src/OgreBspLevel.cpp
+END
+OgreBspSceneManagerPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/src/OgreBspSceneManagerPlugin.cpp
+END
+OgreBspSceneManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/src/OgreBspSceneManager.cpp
+END
+OgreQuake3Shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/BSPSceneManager/src/OgreQuake3Shader.cpp
+END

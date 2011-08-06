@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ogre/!svn/ver/9581/trunk/OgreMain/src/iPhone
+END
+OgreConfigDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/iPhone/OgreConfigDialog.cpp
+END
+OgreErrorDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/iPhone/OgreErrorDialog.cpp
+END
+macUtils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9581/trunk/OgreMain/src/iPhone/macUtils.mm
+END
+OgreTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/iPhone/OgreTimer.cpp
+END

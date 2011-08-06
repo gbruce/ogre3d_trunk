@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/ogre/!svn/ver/9913/trunk/SDK/OSX
+END
+dmg_backdrop.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/6997/trunk/SDK/OSX/dmg_backdrop.png
+END
+make_osx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/OSX/make_osx.sh
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ogre/!svn/ver/9815/trunk/SDK/OSX/readme.txt
+END
+template.dmg.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/OSX/template.dmg.bz2
+END

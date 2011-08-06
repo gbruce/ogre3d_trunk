@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/9871/trunk/PlugIns/ParticleFX/src
+END
+OgreBoxEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/src/OgreBoxEmitter.cpp
+END
+OgrePointEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/src/OgrePointEmitter.cpp
+END
+OgreRingEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/src/OgreRingEmitter.cpp
+END
+OgreParticleFX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9664/trunk/PlugIns/ParticleFX/src/OgreParticleFX.cpp
+END
+OgreDeflectorPlaneAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/src/OgreDeflectorPlaneAffector.cpp
+END
+OgreColourFaderAffector2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/src/OgreColourFaderAffector2.cpp
+END
+OgreScaleAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/src/OgreScaleAffector.cpp
+END
+OgreAreaEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9871/trunk/PlugIns/ParticleFX/src/OgreAreaEmitter.cpp
+END
+OgreLinearForceAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/src/OgreLinearForceAffector.cpp
+END
+OgreHollowEllipsoidEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/src/OgreHollowEllipsoidEmitter.cpp
+END
+OgreCylinderEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/src/OgreCylinderEmitter.cpp
+END
+OgreRotationAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/src/OgreRotationAffector.cpp
+END
+OgreEllipsoidEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/src/OgreEllipsoidEmitter.cpp
+END
+OgreDirectionRandomiserAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/src/OgreDirectionRandomiserAffector.cpp
+END
+OgreColourFaderAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/src/OgreColourFaderAffector.cpp
+END
+OgreParticleFXPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/src/OgreParticleFXPlugin.cpp
+END
+OgreColourInterpolatorAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/src/OgreColourInterpolatorAffector.cpp
+END
+OgreColourImageAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/src/OgreColourImageAffector.cpp
+END

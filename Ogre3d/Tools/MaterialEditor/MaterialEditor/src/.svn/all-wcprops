@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/MaterialEditor/MaterialEditor/src
+END
+EventArgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/EventArgs.cpp
+END
+Workspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/Workspace.cpp
+END
+CgEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/CgEditor.cpp
+END
+DocManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/DocManager.cpp
+END
+MaterialController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialController.cpp
+END
+ProjectPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/ProjectPage.cpp
+END
+PassPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/PassPage.cpp
+END
+SelectionEventArgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/SelectionEventArgs.cpp
+END
+TechniqueEventArgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/TechniqueEventArgs.cpp
+END
+TextureUnitController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/TextureUnitController.cpp
+END
+MaterialEditorApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialEditorApp.cpp
+END
+SelectionService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/SelectionService.cpp
+END
+TechniqueWizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/TechniqueWizard.cpp
+END
+ResourcePanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/src/ResourcePanel.cpp
+END
+HLSLEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/HLSLEditor.cpp
+END
+PassController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/PassController.cpp
+END
+PropertiesPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/PropertiesPanel.cpp
+END
+MaterialEventArgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialEventArgs.cpp
+END
+WorkspacePanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/WorkspacePanel.cpp
+END
+CodeEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/CodeEditor.cpp
+END
+TechniquePage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/TechniquePage.cpp
+END
+CallTipManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/CallTipManager.cpp
+END
+ProjectEventArgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/ProjectEventArgs.cpp
+END
+PassEventArgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/PassEventArgs.cpp
+END
+DocPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/src/DocPanel.cpp
+END
+ScintillaEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/ScintillaEditor.cpp
+END
+TechniqueController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/TechniqueController.cpp
+END
+LogPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/src/LogPanel.cpp
+END
+RootEventPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/RootEventPlugin.cpp
+END
+Project.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/Project.cpp
+END
+MaterialPropertyGridPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialPropertyGridPage.cpp
+END
+GLSLEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/GLSLEditor.cpp
+END
+TextureUnitPropertyGridPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/ogre/!svn/ver/9522/trunk/Tools/MaterialEditor/MaterialEditor/src/TextureUnitPropertyGridPage.cpp
+END
+wxOgre.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/src/wxOgre.cpp
+END
+LogToTextRedirector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/src/LogToTextRedirector.cpp
+END
+WorkspaceEventArgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/WorkspaceEventArgs.cpp
+END
+PassPropertyGridPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/PassPropertyGridPage.cpp
+END
+MaterialWizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialWizard.cpp
+END
+MaterialEditorFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialEditorFrame.cpp
+END
+EditorManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/EditorManager.cpp
+END
+IconManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MaterialEditor/MaterialEditor/src/IconManager.cpp
+END
+EventContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/EventContainer.cpp
+END
+Editor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/Editor.cpp
+END
+ProjectWizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/ProjectWizard.cpp
+END
+PassWizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/PassWizard.cpp
+END
+MaterialScriptEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialScriptEditor.cpp
+END
+MaterialPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialPage.cpp
+END
+MaterialDescriptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/MaterialDescriptor.cpp
+END
+TechniquePropertyGridPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/ogre/!svn/ver/9087/trunk/Tools/MaterialEditor/MaterialEditor/src/TechniquePropertyGridPage.cpp
+END

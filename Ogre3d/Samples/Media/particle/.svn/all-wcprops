@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/particle
+END
+Examples-Water.particle
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9172/trunk/Samples/Media/particle/Examples-Water.particle
+END
+Examples.particle
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9172/trunk/Samples/Media/particle/Examples.particle
+END
+smoke.particle
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/particle/smoke.particle
+END
+emitted_emitter.particle
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/7604/trunk/Samples/Media/particle/emitted_emitter.particle
+END

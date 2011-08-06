@@ -1,0 +1,58 @@
+10
+
+dir
+9952
+https://svn.ogre3d.org/svnroot/ogre/trunk/SDK/OSX/Xcode%20Templates/Xcode/File%20Templates/Ogre
+https://svn.ogre3d.org/svnroot/ogre
+
+
+
+2009-10-15T05:24:15.403797Z
+9167
+masterfalcon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8631bf8a-c64b-0410-883c-f3eb003322f7
+
+Compositor Script.pbfiletemplate
+dir
+
+Material Script.pbfiletemplate
+dir
+
+Font Definition Script.pbfiletemplate
+dir
+
+Mac OS X Application class.pbfiletemplate
+dir
+
+iPhone OS FrameListener subclass.pbfiletemplate
+dir
+
+Overlay Script.pbfiletemplate
+dir
+
+Particle Script.pbfiletemplate
+dir
+
+Mac OS X FrameListener subclass.pbfiletemplate
+dir
+
+Generic Ogre Script.pbfiletemplate
+dir
+
+iPhone OS Application class.pbfiletemplate
+dir
+

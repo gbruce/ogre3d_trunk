@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ogre/!svn/ver/9913/trunk/CMake/Templates
+END
+resources_d.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9742/trunk/CMake/Templates/resources_d.cfg.in
+END
+OGRE-RTShaderSystem.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9636/trunk/CMake/Templates/OGRE-RTShaderSystem.pc.in
+END
+DemoLicense.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Templates/DemoLicense.rtf
+END
+media.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/8328/trunk/CMake/Templates/media.cfg.in
+END
+SDK_CMakeLists.txt.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Templates/SDK_CMakeLists.txt.in
+END
+OGRE-Property.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9636/trunk/CMake/Templates/OGRE-Property.pc.in
+END
+plugins.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9583/trunk/CMake/Templates/plugins.cfg.in
+END
+plugins_d.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9583/trunk/CMake/Templates/plugins_d.cfg.in
+END
+OgreBuildSettings.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9913/trunk/CMake/Templates/OgreBuildSettings.h.in
+END
+demos.wxs.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Templates/demos.wxs.in
+END
+OGRE-PCZ.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/8410/trunk/CMake/Templates/OGRE-PCZ.pc.in
+END
+demomedia.wxi.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Templates/demomedia.wxi.in
+END
+OGRE.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/8446/trunk/CMake/Templates/OGRE.pc.in
+END
+OGRE-Terrain.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9664/trunk/CMake/Templates/OGRE-Terrain.pc.in
+END
+OGRE-Paging.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9636/trunk/CMake/Templates/OGRE-Paging.pc.in
+END
+OGREConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Templates/OGREConfig.cmake.in
+END
+SDK_Samples_CMakeLists.txt.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Templates/SDK_Samples_CMakeLists.txt.in
+END
+html.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9789/trunk/CMake/Templates/html.cfg.in
+END
+quakemap.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9173/trunk/CMake/Templates/quakemap.cfg.in
+END
+samples.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9742/trunk/CMake/Templates/samples.cfg.in
+END
+version.txt.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Templates/version.txt.in
+END
+vcrt_vc8.wxi.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Templates/vcrt_vc8.wxi.in
+END
+OGREStatic.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/8446/trunk/CMake/Templates/OGREStatic.pc.in
+END
+quakemap_d.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9173/trunk/CMake/Templates/quakemap_d.cfg.in
+END
+samples_d.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9742/trunk/CMake/Templates/samples_d.cfg.in
+END
+vcrt_vc9.wxi.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9861/trunk/CMake/Templates/vcrt_vc9.wxi.in
+END
+OGREConfigVersion.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/8641/trunk/CMake/Templates/OGREConfigVersion.cmake.in
+END
+resources.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9620/trunk/CMake/Templates/resources.cfg.in
+END
+VisualStudioUserFile.vcproj.user.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/8519/trunk/CMake/Templates/VisualStudioUserFile.vcproj.user.in
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ogre/!svn/ver/9872/trunk/Samples/Browser/src
+END
+FileSystemLayerImpl_WIN32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9815/trunk/Samples/Browser/src/FileSystemLayerImpl_WIN32.cpp
+END
+SampleBrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9872/trunk/Samples/Browser/src/SampleBrowser.cpp
+END
+FileSystemLayerImpl_Unix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9815/trunk/Samples/Browser/src/FileSystemLayerImpl_Unix.cpp
+END
+FileSystemLayerImpl_Default.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9815/trunk/Samples/Browser/src/FileSystemLayerImpl_Default.cpp
+END
+FileSystemLayerImpl_OSX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9815/trunk/Samples/Browser/src/FileSystemLayerImpl_OSX.cpp
+END
+FileSystemLayerImpl_iPhone.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9815/trunk/Samples/Browser/src/FileSystemLayerImpl_iPhone.mm
+END

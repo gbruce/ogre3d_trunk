@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/src/EGL/WIN32
+END
+OgreWin32EGLSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/src/EGL/WIN32/OgreWin32EGLSupport.cpp
+END
+OgreWin32EGLRenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/src/EGL/WIN32/OgreWin32EGLRenderTexture.cpp
+END
+OgreWin32EGLContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9583/trunk/RenderSystems/GLES2/src/EGL/WIN32/OgreWin32EGLContext.cpp
+END

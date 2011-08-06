@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9664/trunk/PlugIns/OctreeSceneManager/src
+END
+OgreOctree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreOctree.cpp
+END
+OgreTerrainPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreTerrainPage.cpp
+END
+OgreTerrainPageSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreTerrainPageSource.cpp
+END
+OgreOctreeSceneQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/OctreeSceneManager/src/OgreOctreeSceneQuery.cpp
+END
+OgreOctreeSceneManagerDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9664/trunk/PlugIns/OctreeSceneManager/src/OgreOctreeSceneManagerDll.cpp
+END
+OgreOctreeNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreOctreeNode.cpp
+END
+OgreTerrainRenderable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreTerrainRenderable.cpp
+END
+OgreHeightmapTerrainPageSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreHeightmapTerrainPageSource.cpp
+END
+OgreOctreeCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreOctreeCamera.cpp
+END
+OgreOctreeSceneManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreOctreeSceneManager.cpp
+END
+OgreTerrainVertexProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreTerrainVertexProgram.cpp
+END
+OgreTerrainSceneManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreTerrainSceneManager.cpp
+END
+OgreOctreePlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/OctreeSceneManager/src/OgreOctreePlugin.cpp
+END

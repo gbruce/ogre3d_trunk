@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src
+END
+EdgeBuilderTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/EdgeBuilderTests.cpp
+END
+RadixSort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/RadixSort.cpp
+END
+RenderSystemCapabilitiesTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/RenderSystemCapabilitiesTests.cpp
+END
+StreamSerialiserTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/StreamSerialiserTests.cpp
+END
+UseCustomCapabilitiesTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/UseCustomCapabilitiesTests.cpp
+END
+MeshWithoutIndexDataTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/MeshWithoutIndexDataTests.cpp
+END
+VectorTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/VectorTests.cpp
+END
+ZipArchiveTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/ZipArchiveTests.cpp
+END
+BitwiseTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/BitwiseTests.cpp
+END
+FileSystemArchiveTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/FileSystemArchiveTests.cpp
+END
+StringTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/StringTests.cpp
+END
+Suite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/Suite.cpp
+END
+PixelFormatTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9088/trunk/Tests/OgreMain/src/PixelFormatTests.cpp
+END

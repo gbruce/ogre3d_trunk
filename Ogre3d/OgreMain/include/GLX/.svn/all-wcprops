@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/GLX
+END
+OgreErrorDialogImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/GLX/OgreErrorDialogImp.h
+END
+OgreTimerImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/GLX/OgreTimerImp.h
+END
+OgreConfigDialogImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/GLX/OgreConfigDialogImp.h
+END

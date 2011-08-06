@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter
+END
+erlang_ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/erlang_ext.py
+END
+xmlout.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/xmlout.py
+END
+io3d_ogre.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/io3d_ogre.py
+END
+mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/mesh.py
+END
+vector.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/vector.py
+END
+pgon.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/pgon.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/README.txt
+END
+io3d_wings.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/io3d_wings.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/1079/trunk/Tools/Wings3DExporter/Makefile
+END
+w2o.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Wings3DExporter/w2o.py
+END

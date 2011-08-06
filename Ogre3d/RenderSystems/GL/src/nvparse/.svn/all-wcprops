@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9432/trunk/RenderSystems/GL/src/nvparse
+END
+vs1.0_inst_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/8787/trunk/RenderSystems/GL/src/nvparse/vs1.0_inst_list.cpp
+END
+Makefile.reyacc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/2971/trunk/RenderSystems/GL/src/nvparse/Makefile.reyacc
+END
+ts1.0_tokens.l
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/4074/trunk/RenderSystems/GL/src/nvparse/ts1.0_tokens.l
+END
+ps1.0__test_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/ps1.0__test_main.cpp
+END
+_rc1.0_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/nvparse/_rc1.0_parser.h
+END
+vs1.0_tokens.l
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/8787/trunk/RenderSystems/GL/src/nvparse/vs1.0_tokens.l
+END
+macro.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/8699/trunk/RenderSystems/GL/src/nvparse/macro.h
+END
+ts1.0_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/ts1.0_inst.h
+END
+vsp1.0_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/8787/trunk/RenderSystems/GL/src/nvparse/vsp1.0_impl.cpp
+END
+vs1.0_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/vs1.0_inst.h
+END
+rc1.0_grammar.y
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/8699/trunk/RenderSystems/GL/src/nvparse/rc1.0_grammar.y
+END
+nvparse_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/nvparse_errors.h
+END
+_ps1.0_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/nvparse/_ps1.0_parser.h
+END
+_rc1.0_lexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/8852/trunk/RenderSystems/GL/src/nvparse/_rc1.0_lexer.cpp
+END
+nvparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/nvparse.h
+END
+rc1.0_combiners.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/rc1.0_combiners.cpp
+END
+rc1.0_general.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/rc1.0_general.h
+END
+_ts1.0_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/nvparse/_ts1.0_parser.h
+END
+avp1.0_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/8787/trunk/RenderSystems/GL/src/nvparse/avp1.0_impl.cpp
+END
+_vs1.0_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/nvparse/_vs1.0_parser.h
+END
+ps1.0_program.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/ps1.0_program.h
+END
+ps1.0_grammar.y
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/8699/trunk/RenderSystems/GL/src/nvparse/ps1.0_grammar.y
+END
+_rc1.0_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9299/trunk/RenderSystems/GL/src/nvparse/_rc1.0_parser.cpp
+END
+_ps1.0_lexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/8852/trunk/RenderSystems/GL/src/nvparse/_ps1.0_lexer.cpp
+END
+rc1.0_final.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/rc1.0_final.h
+END
+ts1.0_grammar.y
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/8699/trunk/RenderSystems/GL/src/nvparse/ts1.0_grammar.y
+END
+ts1.0_inst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/ts1.0_inst.cpp
+END
+ts1.0_inst_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/ts1.0_inst_list.h
+END
+_ts1.0_lexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9299/trunk/RenderSystems/GL/src/nvparse/_ts1.0_lexer.cpp
+END
+vs1.0_grammar.y
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/8699/trunk/RenderSystems/GL/src/nvparse/vs1.0_grammar.y
+END
+vs1.0_inst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/8787/trunk/RenderSystems/GL/src/nvparse/vs1.0_inst.cpp
+END
+vs1.0_inst_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/vs1.0_inst_list.h
+END
+_vs1.0_lexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/8852/trunk/RenderSystems/GL/src/nvparse/_vs1.0_lexer.cpp
+END
+nvparse_errors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/nvparse_errors.cpp
+END
+_ps1.0_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9432/trunk/RenderSystems/GL/src/nvparse/_ps1.0_parser.cpp
+END
+nvparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9299/trunk/RenderSystems/GL/src/nvparse/nvparse.cpp
+END
+rc1.0_tokens.l
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/4074/trunk/RenderSystems/GL/src/nvparse/rc1.0_tokens.l
+END
+rc1.0_general.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/rc1.0_general.cpp
+END
+_ts1.0_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9299/trunk/RenderSystems/GL/src/nvparse/_ts1.0_parser.cpp
+END
+_vs1.0_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GL/src/nvparse/_vs1.0_parser.cpp
+END
+vp1.0_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/8787/trunk/RenderSystems/GL/src/nvparse/vp1.0_impl.cpp
+END
+ps1.0_program.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/ps1.0_program.cpp
+END
+vcp1.0_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/vcp1.0_impl.cpp
+END
+rc1.0_combiners.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/7604/trunk/RenderSystems/GL/src/nvparse/rc1.0_combiners.h
+END
+nvparse_externs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/nvparse_externs.h
+END
+rc1.0_final.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/rc1.0_final.cpp
+END
+rc1.0_register.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/8699/trunk/RenderSystems/GL/src/nvparse/rc1.0_register.h
+END
+ps1.0_tokens.l
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/4074/trunk/RenderSystems/GL/src/nvparse/ps1.0_tokens.l
+END
+ts1.0_inst_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/8323/trunk/RenderSystems/GL/src/nvparse/ts1.0_inst_list.cpp
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D9/include
+END
+OgreD3D9HardwarePixelBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9HardwarePixelBuffer.h
+END
+OgreD3D9HLSLProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9HLSLProgram.h
+END
+OgreD3D9DeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9DeviceManager.h
+END
+OgreD3D9Driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9Driver.h
+END
+OgreD3D9TextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9TextureManager.h
+END
+OgreD3D9DepthBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D9/include/OgreD3D9DepthBuffer.h
+END
+OgreD3D9Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9Plugin.h
+END
+OgreD3D9Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9Device.h
+END
+OgreD3D9Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9Texture.h
+END
+OgreD3D9MultiRenderTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9MultiRenderTarget.h
+END
+OgreD3D9HardwareOcclusionQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9HardwareOcclusionQuery.h
+END
+OgreD3D9Prerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D9/include/OgreD3D9Prerequisites.h
+END
+OgreD3D9RenderWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9RenderWindow.h
+END
+OgreD3D9VideoModeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9VideoModeList.h
+END
+OgreD3D9VideoMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9VideoMode.h
+END
+OgreD3D9Mappings.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9Mappings.h
+END
+OgreD3D9GpuProgramManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9GpuProgramManager.h
+END
+OgreD3D9HardwareIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9HardwareIndexBuffer.h
+END
+OgreD3D9HardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9HardwareBufferManager.h
+END
+OgreD3D9HLSLProgramFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9HLSLProgramFactory.h
+END
+OgreD3D9ResourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9ResourceManager.h
+END
+OgreD3D9GpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9GpuProgram.h
+END
+OgreD3D9VertexDeclaration.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9VertexDeclaration.h
+END
+OgreD3D9RenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D9/include/OgreD3D9RenderSystem.h
+END
+OgreD3D9HardwareVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9HardwareVertexBuffer.h
+END
+OgreD3D9DriverList.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9DriverList.h
+END
+OgreD3D9Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/Direct3D9/include/OgreD3D9Resource.h
+END

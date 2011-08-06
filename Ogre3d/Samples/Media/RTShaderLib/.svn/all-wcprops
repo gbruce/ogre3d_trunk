@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9950/trunk/Samples/Media/RTShaderLib
+END
+FFPLib_Lighting.cg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Lighting.cg
+END
+FFPLib_Lighting.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/FFPLib_Lighting.glsles
+END
+SampleLib_ReflectionMap.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9534/trunk/Samples/Media/RTShaderLib/SampleLib_ReflectionMap.glsl
+END
+SGXLib_NormalMapLighting.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9331/trunk/Samples/Media/RTShaderLib/SGXLib_NormalMapLighting.glsl
+END
+SGXLib_PerPixelLighting.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9303/trunk/Samples/Media/RTShaderLib/SGXLib_PerPixelLighting.glsl
+END
+FFPLib_Lighting.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/FFPLib_Lighting.glsl
+END
+SGXLib_IntegratedPSSM.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/SGXLib_IntegratedPSSM.glsles
+END
+SGXLib_IntegratedPSSM.cg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9331/trunk/Samples/Media/RTShaderLib/SGXLib_IntegratedPSSM.cg
+END
+FFPLib_Transform.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Transform.hlsl
+END
+FFPLib_Fog.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Fog.hlsl
+END
+SGXLib_LayeredBlending.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9914/trunk/Samples/Media/RTShaderLib/SGXLib_LayeredBlending.hlsl
+END
+SGXLib_IntegratedPSSM.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/SGXLib_IntegratedPSSM.glsl
+END
+FFPLib_Common.cg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9588/trunk/Samples/Media/RTShaderLib/FFPLib_Common.cg
+END
+FFPLib_Common.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9943/trunk/Samples/Media/RTShaderLib/FFPLib_Common.glsles
+END
+FFPLib_Texturing.cg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Texturing.cg
+END
+FFPLib_Texturing.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9943/trunk/Samples/Media/RTShaderLib/FFPLib_Texturing.glsles
+END
+FFPLib_Common.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9654/trunk/Samples/Media/RTShaderLib/FFPLib_Common.glsl
+END
+FFPLib_Texturing.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Texturing.glsl
+END
+SampleLib_ReflectionMap.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9534/trunk/Samples/Media/RTShaderLib/SampleLib_ReflectionMap.hlsl
+END
+SGXLib_NormalMapLighting.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9331/trunk/Samples/Media/RTShaderLib/SGXLib_NormalMapLighting.hlsl
+END
+FFPLib_Transform.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/FFPLib_Transform.glsles
+END
+FFPLib_Transform.cg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Transform.cg
+END
+FFPLib_Fog.cg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Fog.cg
+END
+FFPLib_Fog.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/FFPLib_Fog.glsles
+END
+SGXLib_PerPixelLighting.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9331/trunk/Samples/Media/RTShaderLib/SGXLib_PerPixelLighting.hlsl
+END
+SGXLib_LayeredBlending.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9943/trunk/Samples/Media/RTShaderLib/SGXLib_LayeredBlending.glsles
+END
+SGXLib_LayeredBlending.cg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9914/trunk/Samples/Media/RTShaderLib/SGXLib_LayeredBlending.cg
+END
+FFPLib_Lighting.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Lighting.hlsl
+END
+FFPLib_Transform.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Transform.glsl
+END
+FFPLib_Fog.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/FFPLib_Fog.glsl
+END
+SGXLib_LayeredBlending.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9942/trunk/Samples/Media/RTShaderLib/SGXLib_LayeredBlending.glsl
+END
+SGXLib_IntegratedPSSM.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9331/trunk/Samples/Media/RTShaderLib/SGXLib_IntegratedPSSM.hlsl
+END
+SampleLib_ReflectionMap.cg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9534/trunk/Samples/Media/RTShaderLib/SampleLib_ReflectionMap.cg
+END
+SampleLib_ReflectionMap.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/SampleLib_ReflectionMap.glsles
+END
+FFPLib_Common.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9588/trunk/Samples/Media/RTShaderLib/FFPLib_Common.hlsl
+END
+SGXLib_NormalMapLighting.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/SGXLib_NormalMapLighting.glsles
+END
+SGXLib_NormalMapLighting.cg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9331/trunk/Samples/Media/RTShaderLib/SGXLib_NormalMapLighting.cg
+END
+FFPLib_Texturing.hlsl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9469/trunk/Samples/Media/RTShaderLib/FFPLib_Texturing.hlsl
+END
+SGXLib_PerPixelLighting.cg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9142/trunk/Samples/Media/RTShaderLib/SGXLib_PerPixelLighting.cg
+END
+SGXLib_PerPixelLighting.glsles
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/RTShaderLib/SGXLib_PerPixelLighting.glsles
+END

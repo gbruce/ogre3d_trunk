@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ogre/!svn/ver/8554/trunk/Tools/Common/setup
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Common/setup/build.bat
+END
+commandlinetools.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/8554/trunk/Tools/Common/setup/commandlinetools.wxs
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/Common/setup/Readme.txt
+END
+License.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/5331/trunk/Tools/Common/setup/License.rtf
+END

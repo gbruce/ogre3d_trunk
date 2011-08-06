@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ogre/!svn/ver/9742/trunk/OgreMain/src/OSX
+END
+macUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9706/trunk/OgreMain/src/OSX/macUtils.cpp
+END
+OgreConfigDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OSX/OgreConfigDialog.cpp
+END
+OgreConfigDialog.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9742/trunk/OgreMain/src/OSX/OgreConfigDialog.mm
+END
+OgreErrorDialog.mm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OSX/OgreErrorDialog.mm
+END
+OgreOSXCocoaView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OSX/OgreOSXCocoaView.mm
+END
+OgreTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OSX/OgreTimer.cpp
+END

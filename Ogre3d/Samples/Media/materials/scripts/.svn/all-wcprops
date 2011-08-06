@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9914/trunk/Samples/Media/materials/scripts
+END
+Hurt.material
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Hurt.material
+END
+pssm.material
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/pssm.material
+END
+Posterize.material
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Posterize.material
+END
+Tiling.material
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Tiling.material
+END
+Examples.program
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9691/trunk/Samples/Media/materials/scripts/Examples.program
+END
+ASCII.material
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/7604/trunk/Samples/Media/materials/scripts/ASCII.material
+END
+GLSLSwizzle.material
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/7991/trunk/Samples/Media/materials/scripts/GLSLSwizzle.material
+END
+MotionBlur.material
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/MotionBlur.material
+END
+Bloom2.material
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/materials/scripts/Bloom2.material
+END
+Ogre.material
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Ogre.material
+END
+VarianceShadowmap.material
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/VarianceShadowmap.material
+END
+ParticleGS.material
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/7991/trunk/Samples/Media/materials/scripts/ParticleGS.material
+END
+Examples-Water.material
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9176/trunk/Samples/Media/materials/scripts/Examples-Water.material
+END
+Halftone.material
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Halftone.material
+END
+BlackAndWhite.material
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/BlackAndWhite.material
+END
+NightVision.material
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/NightVision.material
+END
+Embossed.material
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Embossed.material
+END
+OffsetMapping.material
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/materials/scripts/OffsetMapping.material
+END
+Invert.material
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Invert.material
+END
+ASMSwizzle.material
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/7991/trunk/Samples/Media/materials/scripts/ASMSwizzle.material
+END
+DOF.material
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/DOF.material
+END
+HeatVision.material
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/HeatVision.material
+END
+Glass.material
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Glass.material
+END
+ShaderSystem.material
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9187/trunk/Samples/Media/materials/scripts/ShaderSystem.material
+END
+Examples.compositor
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9254/trunk/Samples/Media/materials/scripts/Examples.compositor
+END
+OldMovie.material
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/OldMovie.material
+END
+facial.material
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/facial.material
+END
+RadialBlur.material
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/RadialBlur.material
+END
+StdQuad_vp.program
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/materials/scripts/StdQuad_vp.program
+END
+sibenik.material
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9157/trunk/Samples/Media/materials/scripts/sibenik.material
+END
+Ocean.material
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/materials/scripts/Ocean.material
+END
+Examples-DynTex.material
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9273/trunk/Samples/Media/materials/scripts/Examples-DynTex.material
+END
+OldTV.material
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/OldTV.material
+END
+Ocean.controls
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Ocean.controls
+END
+IsoSurf.material
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/7991/trunk/Samples/Media/materials/scripts/IsoSurf.material
+END
+instancing.material
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9636/trunk/Samples/Media/materials/scripts/instancing.material
+END
+Laplace.material
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Laplace.material
+END
+MRTtest.material
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/materials/scripts/MRTtest.material
+END
+CompositorDemo.material
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9330/trunk/Samples/Media/materials/scripts/CompositorDemo.material
+END
+Penguin.material
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9176/trunk/Samples/Media/materials/scripts/Penguin.material
+END
+Bloom.material
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/materials/scripts/Bloom.material
+END
+DepthShadowmap.material
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/materials/scripts/DepthShadowmap.material
+END
+SharpenEdges.material
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/SharpenEdges.material
+END
+shadows.material
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9475/trunk/Samples/Media/materials/scripts/shadows.material
+END
+Example-Water.material
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Example-Water.material
+END
+RZR-002.material
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/RZR-002.material
+END
+hdr.material
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9583/trunk/Samples/Media/materials/scripts/hdr.material
+END
+Examples.material
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9648/trunk/Samples/Media/materials/scripts/Examples.material
+END
+smoke.material
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9187/trunk/Samples/Media/materials/scripts/smoke.material
+END
+Dither.material
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9173/trunk/Samples/Media/materials/scripts/Dither.material
+END
+CGSwizzle.material
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/7991/trunk/Samples/Media/materials/scripts/CGSwizzle.material
+END
+Examples-Advanced.material
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9589/trunk/Samples/Media/materials/scripts/Examples-Advanced.material
+END

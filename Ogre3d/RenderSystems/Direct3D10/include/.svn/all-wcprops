@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D10/include
+END
+OgreFixedFuncState.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreFixedFuncState.h
+END
+OgreD3D10HardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10HardwareBufferManager.h
+END
+OgreD3D10HLSLProgramFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9522/trunk/RenderSystems/Direct3D10/include/OgreD3D10HLSLProgramFactory.h
+END
+OgreD3D10GpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10GpuProgram.h
+END
+OgreD3D10VertexDeclaration.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9522/trunk/RenderSystems/Direct3D10/include/OgreD3D10VertexDeclaration.h
+END
+OgreD3D10RenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D10/include/OgreD3D10RenderSystem.h
+END
+OgreFixedFuncEmuShaderGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreFixedFuncEmuShaderGenerator.h
+END
+OgreD3D10HardwareVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10HardwareVertexBuffer.h
+END
+OgreD3D10HardwareBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10HardwareBuffer.h
+END
+OgreD3D10DriverList.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10DriverList.h
+END
+OgreD3D10HardwarePixelBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9691/trunk/RenderSystems/Direct3D10/include/OgreD3D10HardwarePixelBuffer.h
+END
+OgreD3D10HLSLProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9522/trunk/RenderSystems/Direct3D10/include/OgreD3D10HLSLProgram.h
+END
+OgreD3D10Driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10Driver.h
+END
+OgreD3D10TextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10TextureManager.h
+END
+OgreD3D10DepthBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D10/include/OgreD3D10DepthBuffer.h
+END
+OgreD3D10Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10Plugin.h
+END
+OgreD3D10Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10Device.h
+END
+OgreD3D10Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9522/trunk/RenderSystems/Direct3D10/include/OgreD3D10Texture.h
+END
+OgreD3D10MultiRenderTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10MultiRenderTarget.h
+END
+OgreD3D10HardwareOcclusionQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10HardwareOcclusionQuery.h
+END
+OgreD3D10Prerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9797/trunk/RenderSystems/Direct3D10/include/OgreD3D10Prerequisites.h
+END
+OgreD3D10RenderWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10RenderWindow.h
+END
+OgreD3D10VideoModeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10VideoModeList.h
+END
+OgreHlslFixedFuncEmuShaderGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreHlslFixedFuncEmuShaderGenerator.h
+END
+OgreFixedFuncEmuShaderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreFixedFuncEmuShaderManager.h
+END
+OgreD3D10RenderToVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10RenderToVertexBuffer.h
+END
+OgreD3D10VideoMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10VideoMode.h
+END
+OgreD3D10Mappings.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9648/trunk/RenderSystems/Direct3D10/include/OgreD3D10Mappings.h
+END
+OgreD3D10GpuProgramManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10GpuProgramManager.h
+END
+OgreD3D10HardwareIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/Direct3D10/include/OgreD3D10HardwareIndexBuffer.h
+END

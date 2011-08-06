@@ -1,0 +1,1457 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ogre/!svn/ver/9949/trunk/OgreMain/include
+END
+OgreMovableObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/include/OgreMovableObject.h
+END
+OgrePixelCountLodStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePixelCountLodStrategy.h
+END
+OgreRenderObjectListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9089/trunk/OgreMain/include/OgreRenderObjectListener.h
+END
+OgreHeaderSuffix.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreHeaderSuffix.h
+END
+OgreCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/include/OgreCodec.h
+END
+OgreHardwareIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreHardwareIndexBuffer.h
+END
+OgreImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreImage.h
+END
+OgreBone.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreBone.h
+END
+OgreMemoryTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreMemoryTracker.h
+END
+OgreSkeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSkeleton.h
+END
+OgreSphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSphere.h
+END
+OgreSubEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSubEntity.h
+END
+OgreMaterialManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9157/trunk/OgreMain/include/OgreMaterialManager.h
+END
+OgreRectangle2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9338/trunk/OgreMain/include/OgreRectangle2D.h
+END
+OgreRenderQueueListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreRenderQueueListener.h
+END
+OgreOptimisedUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreOptimisedUtil.h
+END
+OgrePVRTCCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9316/trunk/OgreMain/include/OgrePVRTCCodec.h
+END
+OgreConfigOptionMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreConfigOptionMap.h
+END
+OgreSkeletonFileFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSkeletonFileFormat.h
+END
+OgreResourceGroupManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9742/trunk/OgreMain/include/OgreResourceGroupManager.h
+END
+OgreVertexIndexData.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreVertexIndexData.h
+END
+OgreColourValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreColourValue.h
+END
+OgreFrameListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreFrameListener.h
+END
+OgreCompositionTargetPass.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreCompositionTargetPass.h
+END
+OgreILUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreILUtil.h
+END
+OgreParticleSystemManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleSystemManager.h
+END
+OgreIteratorRange.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreIteratorRange.h
+END
+OgreBitwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreBitwise.h
+END
+OgreShadowCameraSetupLiSPSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreShadowCameraSetupLiSPSM.h
+END
+OgreSkeletonSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSkeletonSerializer.h
+END
+OgreControllerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreControllerManager.h
+END
+OgreImageCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreImageCodec.h
+END
+OgreSpotShadowFadePng.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSpotShadowFadePng.h
+END
+OgreLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreLog.h
+END
+OgrePlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9866/trunk/OgreMain/include/OgrePlatform.h
+END
+OgreRenderQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreRenderQueue.h
+END
+OgreRenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/include/OgreRenderSystem.h
+END
+OgreHardwareVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9789/trunk/OgreMain/include/OgreHardwareVertexBuffer.h
+END
+OgreDataStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreDataStream.h
+END
+OgreQuaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9949/trunk/OgreMain/include/OgreQuaternion.h
+END
+OgreShadowCameraSetupPlaneOptimal.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreShadowCameraSetupPlaneOptimal.h
+END
+OgreStdHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9299/trunk/OgreMain/include/OgreStdHeaders.h
+END
+OgreVector4.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreVector4.h
+END
+OgreMatrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9491/trunk/OgreMain/include/OgreMatrix3.h
+END
+OgreRotationalSpline.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRotationalSpline.h
+END
+OgreSceneManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/include/OgreSceneManager.h
+END
+OgreBillboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreBillboard.h
+END
+OgreScriptLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreScriptLoader.h
+END
+OgreLodStrategyManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreLodStrategyManager.h
+END
+OgreRenderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRenderOperation.h
+END
+OgreRenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRenderTexture.h
+END
+OgreHardwareOcclusionQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreHardwareOcclusionQuery.h
+END
+OgreZip.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9185/trunk/OgreMain/include/OgreZip.h
+END
+OgreMovablePlane.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9691/trunk/OgreMain/include/OgreMovablePlane.h
+END
+OgreBillboardParticleRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreBillboardParticleRenderer.h
+END
+OgrePass.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9542/trunk/OgreMain/include/OgrePass.h
+END
+OgreShadowVolumeExtrudeProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9583/trunk/OgreMain/include/OgreShadowVolumeExtrudeProgram.h
+END
+OgreStableHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9664/trunk/OgreMain/include/OgreStableHeaders.h
+END
+OgreParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleSystem.h
+END
+OgrePatchSurface.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePatchSurface.h
+END
+OgreCompositionTechnique.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/include/OgreCompositionTechnique.h
+END
+OgreVertexBoneAssignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreVertexBoneAssignment.h
+END
+OgreCompositorLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9163/trunk/OgreMain/include/OgreCompositorLogic.h
+END
+OgreStreamSerialiser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreStreamSerialiser.h
+END
+OgreAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreAnimation.h
+END
+OgreUnifiedHighLevelGpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreUnifiedHighLevelGpuProgram.h
+END
+OgreGpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreGpuProgram.h
+END
+OgreRoot.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9405/trunk/OgreMain/include/OgreRoot.h
+END
+OgreSceneQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSceneQuery.h
+END
+OgreStaticFaceGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreStaticFaceGroup.h
+END
+OgreOverlayContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreOverlayContainer.h
+END
+OgreLodListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreLodListener.h
+END
+OgreRenderSystemCapabilitiesSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreRenderSystemCapabilitiesSerializer.h
+END
+OgreTextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreTextureManager.h
+END
+OgreParticleEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleEmitter.h
+END
+OgreMemoryStdAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreMemoryStdAlloc.h
+END
+OgreMemoryAllocatorConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreMemoryAllocatorConfig.h
+END
+OgrePlane.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/include/OgrePlane.h
+END
+OgreTangentSpaceCalc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreTangentSpaceCalc.h
+END
+OgreTextureUnitState.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9330/trunk/OgreMain/include/OgreTextureUnitState.h
+END
+OgreSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreSingleton.h
+END
+OgreRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRectangle.h
+END
+OgreScriptLexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreScriptLexer.h
+END
+OgreFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreFont.h
+END
+OgreString.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9353/trunk/OgreMain/include/OgreString.h
+END
+OgreMeshSerializerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9380/trunk/OgreMain/include/OgreMeshSerializerImpl.h
+END
+OgreDynLibManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreDynLibManager.h
+END
+OgrePatchMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePatchMesh.h
+END
+OgreSkeletonManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSkeletonManager.h
+END
+OgreAnimationState.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreAnimationState.h
+END
+OgreTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreTimer.h
+END
+OgreScriptParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreScriptParser.h
+END
+OgreParticleScriptCompiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreParticleScriptCompiler.h
+END
+OgreUserObjectBindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9561/trunk/OgreMain/include/OgreUserObjectBindings.h
+END
+OgreExternalTextureSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreExternalTextureSource.h
+END
+OgreFileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreFileSystem.h
+END
+OgreConfigDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreConfigDialog.h
+END
+OgreProgressiveMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreProgressiveMesh.h
+END
+OgreTechnique.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9170/trunk/OgreMain/include/OgreTechnique.h
+END
+OgrePolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePolygon.h
+END
+OgreMatrix4.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9636/trunk/OgreMain/include/OgreMatrix4.h
+END
+OgreBlendMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreBlendMode.h
+END
+OgreSceneManagerEnumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9404/trunk/OgreMain/include/OgreSceneManagerEnumerator.h
+END
+OgreRay.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRay.h
+END
+OgreRenderTargetListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreRenderTargetListener.h
+END
+OgrePlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePlugin.h
+END
+OgreParticleSystemRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleSystemRenderer.h
+END
+OgreTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9302/trunk/OgreMain/include/OgreTexture.h
+END
+OgreLodStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreLodStrategy.h
+END
+OgreFontManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreFontManager.h
+END
+OgreKeyFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreKeyFrame.h
+END
+OgreStaticGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreStaticGeometry.h
+END
+OgreAutoParamDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreAutoParamDataSource.h
+END
+OgreParticleAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleAffectorFactory.h
+END
+OgreHeaderPrefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreHeaderPrefix.h
+END
+OgreSubMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSubMesh.h
+END
+OgreEdgeListBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreEdgeListBuilder.h
+END
+OgreRibbonTrail.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRibbonTrail.h
+END
+OgreBorderPanelOverlayElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreBorderPanelOverlayElement.h
+END
+OgrePanelOverlayElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePanelOverlayElement.h
+END
+OgreHighLevelGpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreHighLevelGpuProgram.h
+END
+asm_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/asm_math.h
+END
+OgreOverlayElementCommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreOverlayElementCommands.h
+END
+OgreConvexBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreConvexBody.h
+END
+OgreShadowCameraSetupPSSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreShadowCameraSetupPSSM.h
+END
+OgreFreeImageCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreFreeImageCodec.h
+END
+OgreInstancedGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9485/trunk/OgreMain/include/OgreInstancedGeometry.h
+END
+OgreNumerics.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreNumerics.h
+END
+OgreILCodecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreILCodecs.h
+END
+OgreCustomCompositionPass.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9163/trunk/OgreMain/include/OgreCustomCompositionPass.h
+END
+OgreRenderTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9882/trunk/OgreMain/include/OgreRenderTarget.h
+END
+OgreMemoryNedPooling.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9199/trunk/OgreMain/include/OgreMemoryNedPooling.h
+END
+OgreGpuProgramParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9343/trunk/OgreMain/include/OgreGpuProgramParams.h
+END
+OgreDefaultHardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreDefaultHardwareBufferManager.h
+END
+OgreSearchOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSearchOps.h
+END
+OgreMaterialSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreMaterialSerializer.h
+END
+OgreCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/include/OgreCommon.h
+END
+OgrePlaneBoundedVolume.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePlaneBoundedVolume.h
+END
+OgreCompositionPass.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9373/trunk/OgreMain/include/OgreCompositionPass.h
+END
+OgreMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/include/OgreMesh.h
+END
+OgreMemorySTLAllocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9664/trunk/OgreMain/include/OgreMemorySTLAllocator.h
+END
+OgreScriptCompiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/include/OgreScriptCompiler.h
+END
+OgreAxisAlignedBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreAxisAlignedBox.h
+END
+OgreShadowTextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/include/OgreShadowTextureManager.h
+END
+OgreParticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticle.h
+END
+OgrePrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/include/OgrePrerequisites.h
+END
+OgreMeshFileFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreMeshFileFormat.h
+END
+OgreILImageCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreILImageCodec.h
+END
+OgreConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9636/trunk/OgreMain/include/OgreConfig.h
+END
+OgreConfigFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreConfigFile.h
+END
+OgreFrustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9507/trunk/OgreMain/include/OgreFrustum.h
+END
+OgreWindowEventUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreWindowEventUtilities.h
+END
+OgreWireBoundingBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreWireBoundingBox.h
+END
+OgreSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSerializer.h
+END
+OgreMemoryNedAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9199/trunk/OgreMain/include/OgreMemoryNedAlloc.h
+END
+OgreOverlayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9508/trunk/OgreMain/include/OgreOverlayManager.h
+END
+OgreArchiveManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreArchiveManager.h
+END
+OgreEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/include/OgreEntity.h
+END
+OgreParticleIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleIterator.h
+END
+OgreRadixSort.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRadixSort.h
+END
+OgreDynLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreDynLib.h
+END
+OgreProfiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreProfiler.h
+END
+OgreResourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9361/trunk/OgreMain/include/OgreResourceManager.h
+END
+OgreController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreController.h
+END
+OgreVector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreVector2.h
+END
+OgreTagPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreTagPoint.h
+END
+OgreMeshSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreMeshSerializer.h
+END
+OgrePrefabFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePrefabFactory.h
+END
+OgreResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9945/trunk/OgreMain/include/OgreResource.h
+END
+OgreHardwarePixelBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreHardwarePixelBuffer.h
+END
+OgreIteratorWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreIteratorWrapper.h
+END
+OgrePixelFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9316/trunk/OgreMain/include/OgrePixelFormat.h
+END
+OgreResourceBackgroundQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9361/trunk/OgreMain/include/OgreResourceBackgroundQueue.h
+END
+OgreSharedPtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9789/trunk/OgreMain/include/OgreSharedPtr.h
+END
+OgreBillboardChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreBillboardChain.h
+END
+OgreRenderSystemCapabilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/include/OgreRenderSystemCapabilities.h
+END
+OgreManualObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreManualObject.h
+END
+OgreBillboardSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9147/trunk/OgreMain/include/OgreBillboardSet.h
+END
+OgrePose.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePose.h
+END
+OgreRenderWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9507/trunk/OgreMain/include/OgreRenderWindow.h
+END
+OgreMemoryAllocatedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreMemoryAllocatedObject.h
+END
+OgreGpuProgramManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreGpuProgramManager.h
+END
+OgreScriptTranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreScriptTranslator.h
+END
+Ogre.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ogre/!svn/ver/9170/trunk/OgreMain/include/Ogre.h
+END
+OgreExternalTextureSourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreExternalTextureSourceManager.h
+END
+OgreViewport.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9948/trunk/OgreMain/include/OgreViewport.h
+END
+OgreHardwareBufferManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreHardwareBufferManager.h
+END
+OgreOverlayElementFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreOverlayElementFactory.h
+END
+OgreCompositorInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9697/trunk/OgreMain/include/OgreCompositorInstance.h
+END
+OgreNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9190/trunk/OgreMain/include/OgreNode.h
+END
+OgreHardwareBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreHardwareBuffer.h
+END
+OgreAny.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9361/trunk/OgreMain/include/OgreAny.h
+END
+OgreShadowCaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreShadowCaster.h
+END
+OgreWorkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9642/trunk/OgreMain/include/OgreWorkQueue.h
+END
+OgreCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreCamera.h
+END
+OgreRenderSystemCapabilitiesManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRenderSystemCapabilitiesManager.h
+END
+OgreStringVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreStringVector.h
+END
+OgreTextAreaOverlayElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreTextAreaOverlayElement.h
+END
+OgrePlatformInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePlatformInformation.h
+END
+OgreCompositor.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9157/trunk/OgreMain/include/OgreCompositor.h
+END
+OgreException.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreException.h
+END
+OgreStringConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreStringConverter.h
+END
+OgreAtomicWrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9319/trunk/OgreMain/include/OgreAtomicWrappers.h
+END
+OgreCompositorChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9697/trunk/OgreMain/include/OgreCompositorChain.h
+END
+OgreFactoryObj.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreFactoryObj.h
+END
+OgreGpuProgramUsage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreGpuProgramUsage.h
+END
+OgreDDSCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreDDSCodec.h
+END
+OgreErrorDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreErrorDialog.h
+END
+OgreRenderToVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRenderToVertexBuffer.h
+END
+OgreLogManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreLogManager.h
+END
+OgreDistanceLodStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreDistanceLodStrategy.h
+END
+OgreParticleAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleAffector.h
+END
+OgreIteratorWrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreIteratorWrappers.h
+END
+OgreSimpleRenderable.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSimpleRenderable.h
+END
+OgreRenderQueueInvocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRenderQueueInvocation.h
+END
+OgreParticleEmitterCommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleEmitterCommands.h
+END
+OgreShadowCameraSetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreShadowCameraSetup.h
+END
+OgreOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreOverlay.h
+END
+OgreArchive.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreArchive.h
+END
+OgreParticleEmitterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/include/OgreParticleEmitterFactory.h
+END
+OgreUTFString.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9789/trunk/OgreMain/include/OgreUTFString.h
+END
+OgreVector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9491/trunk/OgreMain/include/OgreVector3.h
+END
+OgreMeshManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreMeshManager.h
+END
+OgreStringInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreStringInterface.h
+END
+OgreShadowCameraSetupFocused.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreShadowCameraSetupFocused.h
+END
+OgreMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9139/trunk/OgreMain/include/OgreMath.h
+END
+OgreCompositorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreCompositorManager.h
+END
+OgreOverlayElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/include/OgreOverlayElement.h
+END
+OgrePredefinedControllers.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgrePredefinedControllers.h
+END
+OgreMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreMaterial.h
+END
+OgreDepthBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/include/OgreDepthBuffer.h
+END
+OgreRenderable.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreRenderable.h
+END
+OgreSceneNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSceneNode.h
+END
+OgreAlignedAllocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreAlignedAllocator.h
+END
+OgreAnimationTrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9321/trunk/OgreMain/include/OgreAnimationTrack.h
+END
+OgreSimpleSpline.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSimpleSpline.h
+END
+OgreRenderQueueSortingGrouping.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreRenderQueueSortingGrouping.h
+END
+OgreHighLevelGpuProgramManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9252/trunk/OgreMain/include/OgreHighLevelGpuProgramManager.h
+END
+OgreLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreLight.h
+END
+OgreAnimable.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreAnimable.h
+END
+OgreArchiveFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreArchiveFactory.h
+END
+OgreSkeletonInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9082/trunk/OgreMain/include/OgreSkeletonInstance.h
+END

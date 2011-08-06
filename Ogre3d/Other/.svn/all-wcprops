@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/ogre/!svn/ver/7604/trunk/Other
+END
+add_crlf.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ogre/!svn/ver/7604/trunk/Other/add_crlf.py
+END
+tab2spc.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ogre/!svn/ver/7604/trunk/Other/tab2spc.py
+END
+rem_endspc.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ogre/!svn/ver/7604/trunk/Other/rem_endspc.py
+END
+VC7_AppWizard.msi
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/96/trunk/Other/VC7_AppWizard.msi
+END

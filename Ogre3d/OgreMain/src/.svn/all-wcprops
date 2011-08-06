@@ -1,0 +1,1157 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/ogre/!svn/ver/9949/trunk/OgreMain/src
+END
+OgreLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreLog.cpp
+END
+OgreExternalTextureSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreExternalTextureSource.cpp
+END
+OgreFileSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9299/trunk/OgreMain/src/OgreFileSystem.cpp
+END
+OgreQuaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9949/trunk/OgreMain/src/OgreQuaternion.cpp
+END
+OgreDataStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreDataStream.cpp
+END
+OgreHardwareVertexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreHardwareVertexBuffer.cpp
+END
+OgreShadowCameraSetupPlaneOptimal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreShadowCameraSetupPlaneOptimal.cpp
+END
+OgrePrefabFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgrePrefabFactory.cpp
+END
+OgreResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9945/trunk/OgreMain/src/OgreResource.cpp
+END
+OgreMatrix4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9883/trunk/OgreMain/src/OgreMatrix4.cpp
+END
+OgreMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9422/trunk/OgreMain/src/OgreMaterial.cpp
+END
+OgreDepthBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/src/OgreDepthBuffer.cpp
+END
+OgreTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9458/trunk/OgreMain/src/OgreTexture.cpp
+END
+OgreAutoParamDataSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreAutoParamDataSource.cpp
+END
+OgreBillboardParticleRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreBillboardParticleRenderer.cpp
+END
+OgreMovablePlane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreMovablePlane.cpp
+END
+OgreHighLevelGpuProgramManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreHighLevelGpuProgramManager.cpp
+END
+OgreRenderWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreRenderWindow.cpp
+END
+OgreCompositionTechnique.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreCompositionTechnique.cpp
+END
+OgreRotationSpline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreRotationSpline.cpp
+END
+OgrePixelConversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgrePixelConversions.h
+END
+OgreExternalTextureSourceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreExternalTextureSourceManager.cpp
+END
+OgreViewport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9948/trunk/OgreMain/src/OgreViewport.cpp
+END
+OgreConvexBody.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreConvexBody.cpp
+END
+OgreImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreImage.cpp
+END
+OgreCompositorInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/src/OgreCompositorInstance.cpp
+END
+OgreInstancedGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9664/trunk/OgreMain/src/OgreInstancedGeometry.cpp
+END
+OgreSubEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSubEntity.cpp
+END
+OgreWorkQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9642/trunk/OgreMain/src/OgreWorkQueue.cpp
+END
+OgreShadowCaster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreShadowCaster.cpp
+END
+OgreCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreCommon.cpp
+END
+OgreMaterialSerializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9542/trunk/OgreMain/src/OgreMaterialSerializer.cpp
+END
+OgreRectangle2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9338/trunk/OgreMain/src/OgreRectangle2D.cpp
+END
+OgreMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9881/trunk/OgreMain/src/OgreMesh.cpp
+END
+OgreParticleEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreParticleEmitter.cpp
+END
+OgreSIMDHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSIMDHelper.h
+END
+OgreTextureUnitState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/src/OgreTextureUnitState.cpp
+END
+OgreILUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreILUtil.cpp
+END
+OgreOverlayManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9519/trunk/OgreMain/src/OgreOverlayManager.cpp
+END
+OgreArchiveManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreArchiveManager.cpp
+END
+OgreEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9883/trunk/OgreMain/src/OgreEntity.cpp
+END
+OgreControllerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreControllerManager.cpp
+END
+OgreSkeletonSerializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSkeletonSerializer.cpp
+END
+OgreParticleEmitterCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreParticleEmitterCommands.cpp
+END
+OgreShadowCameraSetup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreShadowCameraSetup.cpp
+END
+OgreScriptParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreScriptParser.cpp
+END
+OgreVector2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreVector2.cpp
+END
+OgreProgressiveMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreProgressiveMesh.cpp
+END
+OgreTechnique.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreTechnique.cpp
+END
+OgreVector4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreVector4.cpp
+END
+OgreMeshManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9742/trunk/OgreMain/src/OgreMeshManager.cpp
+END
+OgreStringInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreStringInterface.cpp
+END
+OgreBillboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreBillboard.cpp
+END
+OgreOverlayElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreOverlayElement.cpp
+END
+OgreResourceBackgroundQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9361/trunk/OgreMain/src/OgreResourceBackgroundQueue.cpp
+END
+OgreLodStrategy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9422/trunk/OgreMain/src/OgreLodStrategy.cpp
+END
+OgreFontManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreFontManager.cpp
+END
+OgreHardwareOcclusionQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreHardwareOcclusionQuery.cpp
+END
+OgreZip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/9197/trunk/OgreMain/src/OgreZip.cpp
+END
+OgreSceneNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreSceneNode.cpp
+END
+OgreManualObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/src/OgreManualObject.cpp
+END
+OgreShadowVolumeExtrudeProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9583/trunk/OgreMain/src/OgreShadowVolumeExtrudeProgram.cpp
+END
+OgreOptimisedUtilSSE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreOptimisedUtilSSE.cpp
+END
+OgrePass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9664/trunk/OgreMain/src/OgrePass.cpp
+END
+OgreLight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreLight.cpp
+END
+OgreMemoryAllocatedObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreMemoryAllocatedObject.cpp
+END
+OgreBorderPanelOverlayElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreBorderPanelOverlayElement.cpp
+END
+OgreOverlayElementCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreOverlayElementCommands.cpp
+END
+OgreStreamSerialiser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9789/trunk/OgreMain/src/OgreStreamSerialiser.cpp
+END
+OgreHardwareIndexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreHardwareIndexBuffer.cpp
+END
+OgreBone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreBone.cpp
+END
+OgreNumerics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreNumerics.cpp
+END
+OgreILCodecs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreILCodecs.cpp
+END
+OgreCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9883/trunk/OgreMain/src/OgreCamera.cpp
+END
+OgreOptimisedUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreOptimisedUtil.cpp
+END
+OgreResourceGroupManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9742/trunk/OgreMain/src/OgreResourceGroupManager.cpp
+END
+OgreVertexIndexData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreVertexIndexData.cpp
+END
+OgreAxisAlignedBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreAxisAlignedBox.cpp
+END
+OgreShadowTextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/src/OgreShadowTextureManager.cpp
+END
+OgreParticleSystemManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9200/trunk/OgreMain/src/OgreParticleSystemManager.cpp
+END
+OgreConfigFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreConfigFile.cpp
+END
+OgreFrustum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9519/trunk/OgreMain/src/OgreFrustum.cpp
+END
+OgreILImageCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreILImageCodec.cpp
+END
+OgreWindowEventUtilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/src/OgreWindowEventUtilities.cpp
+END
+OgreWireBoundingBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreWireBoundingBox.cpp
+END
+OgreFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9789/trunk/OgreMain/src/OgreFont.cpp
+END
+OgreString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9353/trunk/OgreMain/src/OgreString.cpp
+END
+OgreShadowCameraSetupLiSPSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreShadowCameraSetupLiSPSM.cpp
+END
+OgreDDSCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreDDSCodec.cpp
+END
+OgreGpuProgramUsage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreGpuProgramUsage.cpp
+END
+OgreSerializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/src/OgreSerializer.cpp
+END
+OgreLogManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreLogManager.cpp
+END
+OgreDistanceLodStrategy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9422/trunk/OgreMain/src/OgreDistanceLodStrategy.cpp
+END
+OgreParticleIterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreParticleIterator.cpp
+END
+OgreDynLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9299/trunk/OgreMain/src/OgreDynLib.cpp
+END
+OgreTagPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreTagPoint.cpp
+END
+OgreMatrix3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreMatrix3.cpp
+END
+OgreShadowCameraSetupFocused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreShadowCameraSetupFocused.cpp
+END
+OgreHardwarePixelBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreHardwarePixelBuffer.cpp
+END
+OgreSceneManagerEnumerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9404/trunk/OgreMain/src/OgreSceneManagerEnumerator.cpp
+END
+OgrePredefinedControllers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgrePredefinedControllers.cpp
+END
+OgreBillboardChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/src/OgreBillboardChain.cpp
+END
+OgreAlignedAllocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreAlignedAllocator.cpp
+END
+OgreAnimationTrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreAnimationTrack.cpp
+END
+OgreSimpleSpline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSimpleSpline.cpp
+END
+OgreSubMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreSubMesh.cpp
+END
+OgreAnimable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreAnimable.cpp
+END
+OgrePixelCountLodStrategy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgrePixelCountLodStrategy.cpp
+END
+OgreMovableObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/src/OgreMovableObject.cpp
+END
+OgreAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreAnimation.cpp
+END
+OgreUnifiedHighLevelGpuProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreUnifiedHighLevelGpuProgram.cpp
+END
+OgreFreeImageCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/src/OgreFreeImageCodec.cpp
+END
+OgreShadowCameraSetupPSSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreShadowCameraSetupPSSM.cpp
+END
+OgreGpuProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9861/trunk/OgreMain/src/OgreGpuProgram.cpp
+END
+OgreRoot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/src/OgreRoot.cpp
+END
+OgreSceneQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSceneQuery.cpp
+END
+OgreMemoryTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9789/trunk/OgreMain/src/OgreMemoryTracker.cpp
+END
+OgreSkeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreSkeleton.cpp
+END
+OgreNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9742/trunk/OgreMain/src/OgreNode.cpp
+END
+OgreRenderTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9882/trunk/OgreMain/src/OgreRenderTarget.cpp
+END
+OgreTextAreaOverlayElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreTextAreaOverlayElement.cpp
+END
+OgreRenderSystemCapabilitiesManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreRenderSystemCapabilitiesManager.cpp
+END
+OgreCompositionPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9373/trunk/OgreMain/src/OgreCompositionPass.cpp
+END
+OgreTextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreTextureManager.cpp
+END
+OgrePVRTCCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgrePVRTCCodec.cpp
+END
+OgreTangentSpaceCalc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9366/trunk/OgreMain/src/OgreTangentSpaceCalc.cpp
+END
+OgrePlane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgrePlane.cpp
+END
+OgreColourValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreColourValue.cpp
+END
+OgreDefaultSceneQueries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreDefaultSceneQueries.cpp
+END
+OgreCompositorChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9948/trunk/OgreMain/src/OgreCompositorChain.cpp
+END
+OgreMemoryNedAlloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreMemoryNedAlloc.cpp
+END
+OgreSimpleRenderable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSimpleRenderable.cpp
+END
+OgreSkeletonManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSkeletonManager.cpp
+END
+ogremain.map
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/7604/trunk/OgreMain/src/ogremain.map
+END
+OgreOverlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9519/trunk/OgreMain/src/OgreOverlay.cpp
+END
+OgreProfiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9861/trunk/OgreMain/src/OgreProfiler.cpp
+END
+OgreResourceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9361/trunk/OgreMain/src/OgreResourceManager.cpp
+END
+OgreParticleScriptCompiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreParticleScriptCompiler.cpp
+END
+OgreUserObjectBindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9561/trunk/OgreMain/src/OgreUserObjectBindings.cpp
+END
+OgreRenderSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/src/OgreRenderSystem.cpp
+END
+OgreRenderQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreRenderQueue.cpp
+END
+OgreUTFString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9789/trunk/OgreMain/src/OgreUTFString.cpp
+END
+OgreVector3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreVector3.cpp
+END
+OgreMeshSerializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreMeshSerializer.cpp
+END
+OgrePolygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgrePolygon.cpp
+END
+OgreSceneManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9948/trunk/OgreMain/src/OgreSceneManager.cpp
+END
+OgreMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreMath.cpp
+END
+OgreCompositorManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/src/OgreCompositorManager.cpp
+END
+OgrePixelFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9561/trunk/OgreMain/src/OgrePixelFormat.cpp
+END
+OgreLodStrategyManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreLodStrategyManager.cpp
+END
+OgreRenderSystemCapabilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreRenderSystemCapabilities.cpp
+END
+OgreRenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreRenderTexture.cpp
+END
+OgreImageResampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreImageResampler.h
+END
+OgreKeyFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreKeyFrame.cpp
+END
+OgreStaticGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9197/trunk/OgreMain/src/OgreStaticGeometry.cpp
+END
+OgreRenderQueueSortingGrouping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreRenderQueueSortingGrouping.cpp
+END
+OgrePose.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgrePose.cpp
+END
+OgreBillboardSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9815/trunk/OgreMain/src/OgreBillboardSet.cpp
+END
+OgreEdgeListBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9706/trunk/OgreMain/src/OgreEdgeListBuilder.cpp
+END
+OgreRibbonTrail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreRibbonTrail.cpp
+END
+OgrePatchSurface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgrePatchSurface.cpp
+END
+OgreParticleSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9706/trunk/OgreMain/src/OgreParticleSystem.cpp
+END
+OgreSkeletonInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSkeletonInstance.cpp
+END
+OgrePanelOverlayElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgrePanelOverlayElement.cpp
+END
+OgreHighLevelGpuProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreHighLevelGpuProgram.cpp
+END
+OgreCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/src/OgreCodec.cpp
+END
+OgreGpuProgramManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreGpuProgramManager.cpp
+END
+OgreScriptTranslator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/src/OgreScriptTranslator.cpp
+END
+OgreHardwareBufferManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreHardwareBufferManager.cpp
+END
+OgreOverlayContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreOverlayContainer.cpp
+END
+OgreMemoryNedPooling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9581/trunk/OgreMain/src/OgreMemoryNedPooling.cpp
+END
+OgreDefaultHardwareBufferManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9522/trunk/OgreMain/src/OgreDefaultHardwareBufferManager.cpp
+END
+OgreGpuProgramParams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9615/trunk/OgreMain/src/OgreGpuProgramParams.cpp
+END
+OgreSearchOps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreSearchOps.cpp
+END
+OgreRenderSystemCapabilitiesSerializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9581/trunk/OgreMain/src/OgreRenderSystemCapabilitiesSerializer.cpp
+END
+OgreOptimisedUtilGeneral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreOptimisedUtilGeneral.cpp
+END
+OgreMaterialManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9157/trunk/OgreMain/src/OgreMaterialManager.cpp
+END
+OgrePlatformInformation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgrePlatformInformation.cpp
+END
+OgreCompositor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/src/OgreCompositor.cpp
+END
+OgreException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreException.cpp
+END
+OgreStringConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreStringConverter.cpp
+END
+OgrePrecompiledHeaders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgrePrecompiledHeaders.cpp
+END
+OgreScriptCompiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9797/trunk/OgreMain/src/OgreScriptCompiler.cpp
+END
+OgreCompositionTargetPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreCompositionTargetPass.cpp
+END
+OgreParticle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreParticle.cpp
+END
+OgreScriptLexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreScriptLexer.cpp
+END
+OgreMeshSerializerImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ogre/!svn/ver/9322/trunk/OgreMain/src/OgreMeshSerializerImpl.cpp
+END
+OgreRenderToVertexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreRenderToVertexBuffer.cpp
+END
+OgrePatchMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgrePatchMesh.cpp
+END
+OgreDynLibManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreDynLibManager.cpp
+END
+OgreRenderQueueInvocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreRenderQueueInvocation.cpp
+END
+OgreAnimationState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/9083/trunk/OgreMain/src/OgreAnimationState.cpp
+END

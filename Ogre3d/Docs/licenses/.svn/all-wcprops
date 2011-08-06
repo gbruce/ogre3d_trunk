@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/ogre/!svn/ver/9615/trunk/Docs/licenses
+END
+freetype.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/freetype.txt
+END
+freeimage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/freeimage.txt
+END
+nedmalloc_boost.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/8131/trunk/Docs/licenses/nedmalloc_boost.txt
+END
+bsd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/bsd.txt
+END
+libmng.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/libmng.txt
+END
+mpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/mpl.txt
+END
+mit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/mit.txt
+END
+libpng.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/libpng.txt
+END
+libjpeg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/libjpeg.txt
+END
+libtiff.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/libtiff.txt
+END
+zlib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/licenses/zlib.txt
+END

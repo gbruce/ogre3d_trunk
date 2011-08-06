@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/ogre/!svn/ver/9934/trunk/Docs/src
+END
+shadows.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/9797/trunk/Docs/src/shadows.inc
+END
+vbos.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/src/vbos.inc
+END
+manual.texi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/9583/trunk/Docs/src/manual.texi
+END
+MaterialScriptCopy.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9426/trunk/Docs/src/MaterialScriptCopy.inc
+END
+animation.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/9426/trunk/Docs/src/animation.inc
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/src/style.css
+END
+apimainpage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/src/apimainpage.txt
+END
+texturesource.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9426/trunk/Docs/src/texturesource.inc
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/src/header.html
+END
+CompositorScript.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/9797/trunk/Docs/src/CompositorScript.inc
+END
+OGREDeveloperGuide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9934/trunk/Docs/src/OGREDeveloperGuide.txt
+END
+ogretexi2html.init
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/src/ogretexi2html.init
+END
+makedocs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/src/makedocs.sh
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/8021/trunk/Docs/src/footer.html
+END
+html.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ogre/!svn/ver/9789/trunk/Docs/src/html.cfg
+END
+glsl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ogre/!svn/ver/9426/trunk/Docs/src/glsl.inc
+END
+vbo-update.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/src/vbo-update.texi
+END

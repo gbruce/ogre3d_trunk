@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/ogre/!svn/ver/9934/trunk/Docs
+END
+ReadMe.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ogre/!svn/ver/9742/trunk/Docs/ReadMe.html
+END
+License.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ogre/!svn/ver/9742/trunk/Docs/License.html
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/ogre/!svn/ver/7604/trunk/Docs/style.css
+END
+ChangeLog.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ogre/!svn/ver/9861/trunk/Docs/ChangeLog.html
+END
+CodingStandards.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/8248/trunk/Docs/CodingStandards.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ogre/!svn/ver/9742/trunk/Docs/CMakeLists.txt
+END
+ogre-logo-wetfloor.gif
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/8021/trunk/Docs/ogre-logo-wetfloor.gif
+END
+ogre-logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ogre/!svn/ver/5085/trunk/Docs/ogre-logo.gif
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/iPhone
+END
+dmg_backdrop.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/iPhone/dmg_backdrop.png
+END
+edit_linker_paths.sed
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/8787/trunk/SDK/iPhone/edit_linker_paths.sed
+END
+fix_linker_paths.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ogre/!svn/ver/8787/trunk/SDK/iPhone/fix_linker_paths.sh
+END
+make_iphone.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/iPhone/make_iphone.sh
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/iPhone/readme.txt
+END
+template.dmg.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ogre/!svn/ver/9861/trunk/SDK/iPhone/template.dmg.bz2
+END

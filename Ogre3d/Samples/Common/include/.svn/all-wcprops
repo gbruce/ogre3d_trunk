@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ogre/!svn/ver/9896/trunk/Samples/Common/include
+END
+OgreStaticPluginLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ogre/!svn/ver/9681/trunk/Samples/Common/include/OgreStaticPluginLoader.h
+END
+ExampleFrameListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9861/trunk/Samples/Common/include/ExampleFrameListener.h
+END
+ExampleLoadingBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ogre/!svn/ver/9086/trunk/Samples/Common/include/ExampleLoadingBar.h
+END
+ExampleApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9896/trunk/Samples/Common/include/ExampleApplication.h
+END
+SamplePlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9664/trunk/Samples/Common/include/SamplePlugin.h
+END
+FileSystemLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ogre/!svn/ver/9815/trunk/Samples/Common/include/FileSystemLayer.h
+END
+Sample.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ogre/!svn/ver/9815/trunk/Samples/Common/include/Sample.h
+END
+SdkSample.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9815/trunk/Samples/Common/include/SdkSample.h
+END
+SdkTrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/9581/trunk/Samples/Common/include/SdkTrays.h
+END
+SampleContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ogre/!svn/ver/9872/trunk/Samples/Common/include/SampleContext.h
+END
+SdkCameraMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/9623/trunk/Samples/Common/include/SdkCameraMan.h
+END

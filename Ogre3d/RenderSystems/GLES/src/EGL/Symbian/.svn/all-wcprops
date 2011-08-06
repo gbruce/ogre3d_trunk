@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/9869/trunk/RenderSystems/GLES/src/EGL/Symbian
+END
+OgreSymbianEGLWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9869/trunk/RenderSystems/GLES/src/EGL/Symbian/OgreSymbianEGLWindow.cpp
+END
+OgreSymbianEGLSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9789/trunk/RenderSystems/GLES/src/EGL/Symbian/OgreSymbianEGLSupport.cpp
+END
+OgreSymbianEGLRenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GLES/src/EGL/Symbian/OgreSymbianEGLRenderTexture.cpp
+END
+OgreSymbianEGLContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9085/trunk/RenderSystems/GLES/src/EGL/Symbian/OgreSymbianEGLContext.cpp
+END

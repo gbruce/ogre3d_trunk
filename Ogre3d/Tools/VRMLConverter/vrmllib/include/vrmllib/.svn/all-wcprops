@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/include/vrmllib
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/include/vrmllib/file.h
+END
+fwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/include/vrmllib/fwd.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/include/vrmllib/types.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/include/vrmllib/node.h
+END
+types_bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/include/vrmllib/types_bits.h
+END
+nodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/VRMLConverter/vrmllib/include/vrmllib/nodes.h
+END

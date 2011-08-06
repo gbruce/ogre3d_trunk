@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include
+END
+OgreEllipsoidEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include/OgreEllipsoidEmitter.h
+END
+OgreColourFaderAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/include/OgreColourFaderAffector.h
+END
+OgreColourImageAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/include/OgreColourImageAffector.h
+END
+OgreColourInterpolatorAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/include/OgreColourInterpolatorAffector.h
+END
+OgreBoxEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreBoxEmitter.h
+END
+OgrePointEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgrePointEmitter.h
+END
+OgreParticleFXPrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreParticleFXPrerequisites.h
+END
+OgreRingEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include/OgreRingEmitter.h
+END
+OgreDeflectorPlaneAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreDeflectorPlaneAffectorFactory.h
+END
+OgreScaleAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreScaleAffectorFactory.h
+END
+OgreLinearForceAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreLinearForceAffectorFactory.h
+END
+OgreCylinderEmitterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include/OgreCylinderEmitterFactory.h
+END
+OgreRotationAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreRotationAffectorFactory.h
+END
+OgreColourFaderAffector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/include/OgreColourFaderAffector2.h
+END
+OgreAreaEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreAreaEmitter.h
+END
+OgreHollowEllipsoidEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include/OgreHollowEllipsoidEmitter.h
+END
+OgreDirectionRandomiserAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreDirectionRandomiserAffectorFactory.h
+END
+OgreColourFaderAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreColourFaderAffectorFactory.h
+END
+OgrePointEmitterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgrePointEmitterFactory.h
+END
+OgreDirectionRandomiserAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreDirectionRandomiserAffector.h
+END
+OgreParticleFXPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreParticleFXPlugin.h
+END
+OgreRingEmitterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include/OgreRingEmitterFactory.h
+END
+OgreColourFaderAffectorFactory2.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreColourFaderAffectorFactory2.h
+END
+OgreHollowEllipsoidEmitterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include/OgreHollowEllipsoidEmitterFactory.h
+END
+OgreScaleAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/include/OgreScaleAffector.h
+END
+OgreDeflectorPlaneAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreDeflectorPlaneAffector.h
+END
+OgreLinearForceAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/include/OgreLinearForceAffector.h
+END
+OgreCylinderEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include/OgreCylinderEmitter.h
+END
+OgreEllipsoidEmitterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ogre/!svn/ver/9636/trunk/PlugIns/ParticleFX/include/OgreEllipsoidEmitterFactory.h
+END
+OgreColourImageAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreColourImageAffectorFactory.h
+END
+OgreColourInterpolatorAffectorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreColourInterpolatorAffectorFactory.h
+END
+OgreRotationAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ogre/!svn/ver/9522/trunk/PlugIns/ParticleFX/include/OgreRotationAffector.h
+END
+OgreBoxEmitterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ogre/!svn/ver/9084/trunk/PlugIns/ParticleFX/include/OgreBoxEmitterFactory.h
+END

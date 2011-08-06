@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src
+END
+material.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src/material.cpp
+END
+skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src/skeleton.cpp
+END
+blendshape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src/blendshape.cpp
+END
+ogreExporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src/ogreExporter.cpp
+END
+particles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/7604/trunk/Tools/MayaExport/src/particles.cpp
+END
+submesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src/submesh.cpp
+END
+materialSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src/materialSet.cpp
+END
+mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src/mesh.cpp
+END
+paramlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ogre/!svn/ver/8148/trunk/Tools/MayaExport/src/paramlist.cpp
+END
